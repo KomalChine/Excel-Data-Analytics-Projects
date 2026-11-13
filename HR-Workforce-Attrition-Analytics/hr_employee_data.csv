@@ -1,0 +1,501 @@
+﻿Employee ID,Gender,Age,Education,Department,Job Role,Location,Snapshot Date,Years at Company,Annual Salary (INR),Job Satisfaction (1-5),Performance Rating (1-5),Overtime,Commute (km),Training Hours,Promoted in Last 2 Years,Attrition
+EMP-0001,Female,54,Diploma,Marketing,Marketing Specialist,Mumbai,2025-01-01,12.1,666000,1,4,No,34,8,Yes,Yes
+EMP-0002,Non-binary,48,Master's,Customer Support,Support Associate,Chennai,2025-01-01,8.9,502000,4,4,No,28,2,No,No
+EMP-0003,Female,51,Master's,Customer Support,Support Associate,Delhi,2025-01-01,18.0,383000,2,2,Yes,14,4,Yes,No
+EMP-0004,Non-binary,27,Master's,Finance,Accountant,Pune,2025-01-01,4.7,804000,1,2,Yes,36,2,No,No
+EMP-0005,Female,34,Master's,Customer Support,Team Lead,Bengaluru,2025-01-01,0.9,507000,1,1,No,27,2,No,No
+EMP-0006,Non-binary,46,PhD,Engineering,QA Engineer,Delhi,2025-01-01,10.4,974000,4,1,No,3,1,No,No
+EMP-0007,Female,42,Master's,Engineering,Data Analyst,Bengaluru,2025-01-01,1.1,1081000,2,2,No,2,6,No,No
+EMP-0008,Male,46,Master's,Human Resources,HR Executive,Pune,2025-01-01,3.5,709000,4,1,Yes,40,6,No,No
+EMP-0009,Male,44,Diploma,Customer Support,Team Lead,Chennai,2025-01-01,3.3,513000,2,4,No,24,8,Yes,No
+EMP-0010,Non-binary,54,PhD,Engineering,Software Engineer,Mumbai,2025-01-01,12.4,719000,3,5,Yes,41,5,No,No
+EMP-0011,Female,24,Bachelor's,Finance,Accountant,Delhi,2025-01-01,0.8,630000,3,2,No,31,8,No,No
+EMP-0012,Non-binary,52,PhD,Finance,Financial Analyst,Delhi,2025-01-01,15.9,664000,1,1,No,59,8,No,No
+EMP-0013,Non-binary,47,PhD,Customer Support,Support Manager,Hyderabad,2025-01-01,4.4,442000,1,3,No,8,8,Yes,No
+EMP-0014,Male,45,Bachelor's,Finance,Finance Manager,Delhi,2025-01-01,23.7,729000,2,2,No,14,4,No,No
+EMP-0015,Female,47,Master's,Finance,Accountant,Bengaluru,2025-01-01,18.0,865000,4,4,No,13,8,Yes,No
+EMP-0016,Female,37,PhD,Engineering,QA Engineer,Delhi,2025-01-01,11.7,615000,1,3,No,52,2,No,Yes
+EMP-0017,Non-binary,47,PhD,Sales,Sales Manager,Mumbai,2025-01-01,8.2,374000,2,2,No,38,0,No,Yes
+EMP-0018,Female,29,Diploma,Sales,Sales Executive,Delhi,2025-01-01,4.3,821000,5,1,Yes,4,5,No,No
+EMP-0019,Female,45,Diploma,Marketing,Content Strategist,Delhi,2025-01-01,1.7,554000,5,3,No,21,0,Yes,No
+EMP-0020,Non-binary,24,Diploma,Sales,Sales Manager,Hyderabad,2025-01-01,2.7,844000,4,4,Yes,40,4,No,No
+EMP-0021,Male,56,Diploma,Sales,Account Manager,Delhi,2025-01-01,15.7,754000,4,4,Yes,2,0,No,No
+EMP-0022,Non-binary,48,PhD,Finance,Accountant,Chennai,2025-01-01,10.9,671000,1,5,Yes,43,8,No,No
+EMP-0023,Female,46,PhD,Engineering,Data Analyst,Delhi,2025-01-01,16.9,880000,2,3,No,48,5,No,No
+EMP-0024,Male,46,Diploma,Operations,Process Analyst,Pune,2025-01-01,6.0,664000,3,1,No,47,6,No,No
+EMP-0025,Female,52,Master's,Sales,Sales Manager,Bengaluru,2025-01-01,22.2,682000,3,4,No,2,3,No,No
+EMP-0026,Male,33,Bachelor's,Marketing,Marketing Manager,Bengaluru,2025-01-01,11.6,434000,4,4,No,30,1,No,No
+EMP-0027,Non-binary,47,PhD,Customer Support,Team Lead,Mumbai,2025-01-01,21.8,327000,3,1,Yes,55,5,No,No
+EMP-0028,Non-binary,40,Master's,Human Resources,HR Manager,Chennai,2025-01-01,13.7,593000,5,1,No,8,5,No,No
+EMP-0029,Female,43,Diploma,Human Resources,HR Executive,Chennai,2025-01-01,15.1,425000,4,1,No,58,3,No,No
+EMP-0030,Non-binary,47,Diploma,Operations,Operations Manager,Hyderabad,2025-01-01,16.7,530000,3,5,Yes,59,6,Yes,No
+EMP-0031,Non-binary,24,PhD,Customer Support,Support Associate,Chennai,2025-01-01,2.6,320000,5,5,No,12,8,No,No
+EMP-0032,Male,43,PhD,Engineering,QA Engineer,Hyderabad,2025-01-01,9.0,849000,4,3,No,6,7,No,No
+EMP-0033,Female,53,Bachelor's,Marketing,Marketing Specialist,Pune,2025-01-01,20.5,795000,1,1,No,3,1,Yes,No
+EMP-0034,Female,53,PhD,Marketing,Marketing Manager,Chennai,2025-01-01,12.4,574000,2,3,No,60,3,Yes,Yes
+EMP-0035,Female,27,PhD,Customer Support,Support Manager,Bengaluru,2025-01-01,1.8,440000,4,5,No,42,0,No,No
+EMP-0036,Male,56,Bachelor's,Engineering,Software Engineer,Hyderabad,2025-01-01,19.5,757000,2,3,Yes,38,6,No,No
+EMP-0037,Male,26,Bachelor's,Sales,Account Manager,Delhi,2025-01-01,2.3,658000,4,3,No,27,3,Yes,No
+EMP-0038,Female,41,PhD,Marketing,Marketing Manager,Hyderabad,2025-01-01,5.8,710000,2,2,Yes,36,3,No,Yes
+EMP-0039,Non-binary,45,Bachelor's,Finance,Financial Analyst,Hyderabad,2025-01-01,14.1,464000,5,1,No,42,5,No,No
+EMP-0040,Non-binary,42,Diploma,Customer Support,Team Lead,Delhi,2025-01-01,15.0,351000,2,2,No,22,7,No,No
+EMP-0041,Non-binary,24,PhD,Operations,Operations Associate,Hyderabad,2025-01-01,0.8,500000,5,4,No,7,6,Yes,No
+EMP-0042,Female,41,Master's,Human Resources,HR Manager,Bengaluru,2025-01-01,11.0,814000,3,1,No,24,1,Yes,No
+EMP-0043,Non-binary,26,Master's,Customer Support,Support Manager,Delhi,2025-01-01,0.9,467000,3,4,No,42,8,No,No
+EMP-0044,Male,45,Diploma,Marketing,Content Strategist,Hyderabad,2025-01-01,21.3,581000,1,3,No,8,5,No,No
+EMP-0045,Non-binary,28,Master's,Engineering,Software Engineer,Bengaluru,2025-01-01,3.8,718000,5,4,No,58,3,No,No
+EMP-0046,Male,37,Master's,Engineering,Software Engineer,Bengaluru,2025-01-01,9.6,977000,4,5,No,30,7,No,No
+EMP-0047,Non-binary,49,Diploma,Finance,Financial Analyst,Hyderabad,2025-01-01,13.6,486000,3,5,No,15,0,No,No
+EMP-0048,Female,57,Bachelor's,Operations,Process Analyst,Chennai,2025-01-01,20.0,586000,5,3,No,44,0,No,No
+EMP-0049,Male,51,Master's,Engineering,QA Engineer,Delhi,2025-01-01,10.0,1156000,2,2,No,12,5,Yes,Yes
+EMP-0050,Non-binary,32,PhD,Operations,Operations Associate,Pune,2025-01-01,5.0,579000,2,2,No,52,3,No,Yes
+EMP-0051,Non-binary,53,Diploma,Marketing,Content Strategist,Pune,2025-01-01,23.9,748000,2,2,No,17,0,No,No
+EMP-0052,Male,31,PhD,Human Resources,HR Manager,Hyderabad,2025-01-01,7.1,714000,1,2,Yes,26,0,No,No
+EMP-0053,Male,29,PhD,Operations,Operations Associate,Mumbai,2025-01-01,3.3,487000,3,2,No,16,0,Yes,No
+EMP-0054,Non-binary,31,Diploma,Operations,Operations Associate,Mumbai,2025-01-01,3.4,766000,3,5,Yes,10,6,Yes,Yes
+EMP-0055,Female,38,PhD,Customer Support,Team Lead,Hyderabad,2025-01-01,14.5,422000,3,3,No,52,8,No,No
+EMP-0056,Male,43,Master's,Sales,Account Manager,Delhi,2025-01-01,8.8,479000,3,4,No,17,1,Yes,No
+EMP-0057,Non-binary,24,Diploma,Engineering,QA Engineer,Pune,2025-01-01,0.8,916000,1,5,No,21,1,No,Yes
+EMP-0058,Non-binary,25,Master's,Finance,Finance Manager,Hyderabad,2025-01-01,3.5,582000,2,2,No,34,5,Yes,No
+EMP-0059,Female,58,Diploma,Finance,Financial Analyst,Delhi,2025-01-01,14.9,552000,2,1,Yes,28,5,No,No
+EMP-0060,Non-binary,42,PhD,Marketing,Marketing Specialist,Delhi,2025-01-01,8.7,777000,5,1,No,30,6,No,No
+EMP-0061,Male,55,Master's,Engineering,Engineering Manager,Chennai,2025-01-01,17.0,697000,4,5,No,16,1,Yes,No
+EMP-0062,Non-binary,27,Bachelor's,Sales,Sales Manager,Mumbai,2025-01-01,2.3,647000,2,4,Yes,33,3,No,No
+EMP-0063,Non-binary,46,Bachelor's,Sales,Sales Manager,Hyderabad,2025-01-01,2.2,335000,1,5,Yes,11,6,Yes,No
+EMP-0064,Non-binary,33,Master's,Customer Support,Support Manager,Hyderabad,2025-01-01,7.4,575000,4,2,No,4,1,No,No
+EMP-0065,Male,35,Master's,Sales,Sales Manager,Mumbai,2025-01-01,2.8,537000,4,1,No,55,2,No,No
+EMP-0066,Male,31,PhD,Marketing,Content Strategist,Delhi,2025-01-01,2.2,612000,1,5,Yes,41,8,No,No
+EMP-0067,Female,35,Bachelor's,Engineering,Engineering Manager,Delhi,2025-01-01,11.8,743000,2,3,No,58,0,Yes,No
+EMP-0068,Female,37,Diploma,Operations,Operations Associate,Mumbai,2025-01-01,2.8,512000,2,3,No,24,3,No,Yes
+EMP-0069,Non-binary,37,Bachelor's,Human Resources,HR Executive,Hyderabad,2025-01-01,5.4,723000,1,1,No,6,6,Yes,No
+EMP-0070,Male,53,Diploma,Human Resources,Talent Acquisition Specialist,Delhi,2025-01-01,14.6,727000,1,1,No,15,3,No,Yes
+EMP-0071,Male,28,PhD,Finance,Finance Manager,Chennai,2025-01-01,2.9,818000,5,5,No,20,1,No,No
+EMP-0072,Female,47,Master's,Sales,Sales Manager,Mumbai,2025-01-01,11.3,817000,4,5,Yes,33,4,No,Yes
+EMP-0073,Non-binary,56,Bachelor's,Engineering,Data Analyst,Chennai,2025-01-01,12.7,1044000,4,4,No,21,3,No,No
+EMP-0074,Female,35,Bachelor's,Customer Support,Support Associate,Delhi,2025-01-01,5.4,442000,2,3,No,11,1,Yes,No
+EMP-0075,Non-binary,33,Diploma,Finance,Finance Manager,Pune,2025-01-01,2.0,652000,2,3,Yes,54,4,No,Yes
+EMP-0076,Non-binary,47,Master's,Engineering,QA Engineer,Hyderabad,2025-01-01,21.8,674000,3,2,No,33,7,Yes,No
+EMP-0077,Non-binary,51,Diploma,Engineering,Engineering Manager,Pune,2025-01-01,12.4,926000,1,1,No,20,7,No,No
+EMP-0078,Male,50,Bachelor's,Marketing,Marketing Specialist,Delhi,2025-01-01,6.0,578000,1,1,No,15,2,No,No
+EMP-0079,Non-binary,46,Bachelor's,Engineering,Software Engineer,Delhi,2025-01-01,19.2,1035000,3,1,Yes,27,8,Yes,No
+EMP-0080,Non-binary,46,Master's,Sales,Sales Manager,Pune,2025-01-01,17.2,581000,5,3,Yes,26,3,Yes,No
+EMP-0081,Non-binary,44,PhD,Marketing,Marketing Manager,Delhi,2025-01-01,12.9,886000,4,3,No,11,2,No,No
+EMP-0082,Male,58,PhD,Engineering,Data Analyst,Chennai,2025-01-01,15.4,1092000,3,4,No,23,8,Yes,No
+EMP-0083,Female,39,Bachelor's,Operations,Operations Manager,Hyderabad,2025-01-01,6.2,760000,1,2,Yes,24,6,No,Yes
+EMP-0084,Non-binary,28,Diploma,Human Resources,Talent Acquisition Specialist,Mumbai,2025-01-01,6.6,439000,5,5,Yes,24,0,Yes,No
+EMP-0085,Male,37,Master's,Engineering,Engineering Manager,Mumbai,2025-01-01,2.5,917000,3,5,No,32,7,No,No
+EMP-0086,Non-binary,26,PhD,Human Resources,Talent Acquisition Specialist,Pune,2025-01-01,1.7,426000,4,1,No,42,5,No,No
+EMP-0087,Male,25,Bachelor's,Marketing,Marketing Specialist,Chennai,2025-01-01,0.9,607000,3,5,No,23,3,No,Yes
+EMP-0088,Male,50,Diploma,Sales,Sales Manager,Delhi,2025-01-01,2.4,762000,1,4,Yes,29,4,No,No
+EMP-0089,Male,25,Diploma,Operations,Operations Manager,Delhi,2025-01-01,1.7,407000,1,5,No,13,4,No,No
+EMP-0090,Female,57,Diploma,Engineering,Data Analyst,Mumbai,2025-01-01,13.4,858000,3,1,No,5,7,No,No
+EMP-0091,Non-binary,50,Diploma,Sales,Sales Manager,Mumbai,2025-01-01,6.3,745000,5,4,No,24,1,No,No
+EMP-0092,Female,45,Diploma,Finance,Accountant,Hyderabad,2025-01-01,13.6,517000,4,5,No,33,2,No,No
+EMP-0093,Male,37,Master's,Sales,Sales Executive,Delhi,2025-01-01,10.5,804000,2,2,Yes,45,3,Yes,No
+EMP-0094,Non-binary,24,Master's,Operations,Process Analyst,Delhi,2025-01-01,1.1,638000,3,3,Yes,23,1,Yes,No
+EMP-0095,Male,28,PhD,Customer Support,Support Associate,Hyderabad,2025-01-01,6.9,388000,1,1,Yes,45,4,Yes,Yes
+EMP-0096,Male,55,Diploma,Customer Support,Support Associate,Hyderabad,2025-01-01,3.2,478000,2,5,Yes,30,7,No,No
+EMP-0097,Female,37,PhD,Customer Support,Support Manager,Delhi,2025-01-01,7.0,297000,5,4,No,37,6,No,No
+EMP-0098,Non-binary,27,PhD,Marketing,Marketing Manager,Mumbai,2025-01-01,2.7,541000,1,4,No,49,4,No,No
+EMP-0099,Male,39,Master's,Sales,Sales Manager,Hyderabad,2025-01-01,16.7,577000,4,5,No,20,4,No,No
+EMP-0100,Male,29,PhD,Operations,Operations Manager,Hyderabad,2025-01-01,4.2,364000,2,3,Yes,7,7,No,No
+EMP-0101,Male,53,Master's,Engineering,QA Engineer,Delhi,2025-01-01,22.5,1037000,1,2,No,55,3,No,Yes
+EMP-0102,Female,58,Bachelor's,Finance,Financial Analyst,Chennai,2025-01-01,19.2,799000,3,3,No,55,0,Yes,No
+EMP-0103,Non-binary,34,Bachelor's,Engineering,Data Analyst,Mumbai,2025-01-01,2.8,927000,5,4,Yes,26,2,No,No
+EMP-0104,Male,57,Master's,Engineering,Data Analyst,Hyderabad,2025-01-01,8.2,912000,3,2,No,22,2,No,No
+EMP-0105,Male,40,PhD,Operations,Process Analyst,Mumbai,2025-01-01,15.3,616000,1,2,No,27,0,No,Yes
+EMP-0106,Non-binary,36,PhD,Engineering,Data Analyst,Hyderabad,2025-01-01,9.1,467000,2,5,No,27,2,No,No
+EMP-0107,Male,34,PhD,Human Resources,Talent Acquisition Specialist,Delhi,2025-01-01,7.4,590000,3,4,No,3,6,Yes,No
+EMP-0108,Male,39,Bachelor's,Marketing,Content Strategist,Bengaluru,2025-01-01,9.5,717000,3,2,No,12,1,No,No
+EMP-0109,Female,33,Bachelor's,Engineering,Data Analyst,Bengaluru,2025-01-01,5.1,795000,2,5,Yes,1,1,No,No
+EMP-0110,Male,58,Master's,Operations,Process Analyst,Bengaluru,2025-01-01,3.2,650000,1,5,Yes,3,2,No,Yes
+EMP-0111,Non-binary,35,Master's,Sales,Sales Manager,Hyderabad,2025-01-01,5.6,1106000,3,1,No,50,3,No,No
+EMP-0112,Male,24,Bachelor's,Customer Support,Support Manager,Pune,2025-01-01,1.6,538000,5,4,No,23,6,Yes,No
+EMP-0113,Male,29,Bachelor's,Human Resources,Talent Acquisition Specialist,Pune,2025-01-01,4.5,535000,5,1,No,35,3,No,No
+EMP-0114,Female,22,Master's,Customer Support,Team Lead,Mumbai,2025-01-01,0.7,404000,2,3,No,1,8,No,No
+EMP-0115,Male,50,PhD,Engineering,QA Engineer,Bengaluru,2025-01-01,12.8,812000,5,2,No,13,3,No,No
+EMP-0116,Male,28,PhD,Operations,Operations Associate,Delhi,2025-01-01,3.6,589000,4,1,Yes,8,8,No,No
+EMP-0117,Female,27,Bachelor's,Marketing,Content Strategist,Chennai,2025-01-01,0.9,621000,3,5,Yes,59,5,No,No
+EMP-0118,Female,44,Diploma,Marketing,Marketing Specialist,Bengaluru,2025-01-01,14.2,676000,2,3,Yes,19,8,No,No
+EMP-0119,Female,52,Diploma,Sales,Account Manager,Bengaluru,2025-01-01,18.7,819000,3,5,No,8,2,No,No
+EMP-0120,Male,38,Bachelor's,Operations,Operations Associate,Chennai,2025-01-01,1.6,562000,4,4,No,18,4,No,Yes
+EMP-0121,Non-binary,34,Bachelor's,Customer Support,Team Lead,Pune,2025-01-01,9.2,475000,5,5,Yes,22,7,No,No
+EMP-0122,Female,58,Diploma,Customer Support,Support Manager,Chennai,2025-01-01,1.8,434000,1,1,Yes,57,6,No,Yes
+EMP-0123,Non-binary,53,Bachelor's,Sales,Sales Manager,Mumbai,2025-01-01,23.1,479000,5,4,No,13,6,No,No
+EMP-0124,Male,29,Master's,Human Resources,HR Executive,Delhi,2025-01-01,6.5,633000,5,4,No,4,0,No,No
+EMP-0125,Female,24,PhD,Human Resources,HR Executive,Mumbai,2025-01-01,0.7,434000,2,2,Yes,52,3,No,Yes
+EMP-0126,Non-binary,30,Master's,Sales,Sales Executive,Hyderabad,2025-01-01,4.8,734000,1,1,Yes,53,7,Yes,No
+EMP-0127,Male,46,PhD,Engineering,Software Engineer,Hyderabad,2025-01-01,10.9,551000,3,3,No,51,0,No,No
+EMP-0128,Male,27,PhD,Customer Support,Team Lead,Chennai,2025-01-01,1.0,216000,4,3,No,35,5,No,No
+EMP-0129,Female,32,Diploma,Finance,Financial Analyst,Chennai,2025-01-01,2.2,560000,3,5,No,4,7,Yes,No
+EMP-0130,Male,36,PhD,Sales,Sales Manager,Bengaluru,2025-01-01,10.3,698000,5,1,Yes,30,1,No,No
+EMP-0131,Male,51,Diploma,Sales,Sales Executive,Pune,2025-01-01,0.3,470000,5,1,Yes,43,2,No,No
+EMP-0132,Male,30,Bachelor's,Sales,Sales Manager,Chennai,2025-01-01,1.3,571000,1,2,No,37,4,No,No
+EMP-0133,Non-binary,32,Bachelor's,Marketing,Marketing Specialist,Hyderabad,2025-01-01,4.9,824000,2,5,Yes,45,3,Yes,Yes
+EMP-0134,Male,54,Master's,Human Resources,HR Manager,Chennai,2025-01-01,14.2,613000,4,1,Yes,31,8,Yes,No
+EMP-0135,Female,46,PhD,Marketing,Marketing Manager,Mumbai,2025-01-01,23.8,728000,5,2,No,18,0,No,No
+EMP-0136,Non-binary,38,Diploma,Marketing,Content Strategist,Hyderabad,2025-01-01,9.2,557000,4,3,No,45,6,No,No
+EMP-0137,Male,38,Diploma,Marketing,Marketing Manager,Mumbai,2025-01-01,16.0,508000,5,2,Yes,4,4,No,No
+EMP-0138,Female,49,Diploma,Finance,Financial Analyst,Bengaluru,2025-01-01,2.4,691000,2,3,No,32,6,No,No
+EMP-0139,Female,50,Diploma,Human Resources,HR Executive,Bengaluru,2025-01-01,8.1,572000,5,5,No,20,1,No,No
+EMP-0140,Male,57,PhD,Engineering,QA Engineer,Mumbai,2025-01-01,13.3,893000,3,1,No,25,1,No,No
+EMP-0141,Female,55,Master's,Finance,Accountant,Mumbai,2025-01-01,20.6,582000,4,3,No,57,3,No,No
+EMP-0142,Female,34,PhD,Engineering,Data Analyst,Pune,2025-01-01,0.3,976000,5,1,No,56,4,No,No
+EMP-0143,Female,26,Master's,Customer Support,Team Lead,Bengaluru,2025-01-01,4.6,337000,1,2,No,20,2,No,Yes
+EMP-0144,Non-binary,46,Diploma,Customer Support,Team Lead,Bengaluru,2025-01-01,15.4,341000,3,1,Yes,9,1,No,No
+EMP-0145,Female,57,PhD,Human Resources,HR Manager,Bengaluru,2025-01-01,0.8,555000,5,3,Yes,27,1,No,No
+EMP-0146,Non-binary,25,Master's,Finance,Financial Analyst,Bengaluru,2025-01-01,0.3,807000,4,5,No,37,0,No,No
+EMP-0147,Male,29,Master's,Sales,Sales Executive,Pune,2025-01-01,5.8,751000,4,1,Yes,38,4,No,No
+EMP-0148,Female,54,PhD,Customer Support,Support Manager,Bengaluru,2025-01-01,11.4,431000,5,1,No,37,3,No,No
+EMP-0149,Non-binary,24,Bachelor's,Marketing,Marketing Specialist,Chennai,2025-01-01,2.7,557000,4,1,No,33,1,No,No
+EMP-0150,Non-binary,33,Master's,Sales,Sales Manager,Pune,2025-01-01,11.5,739000,2,3,No,51,8,Yes,No
+EMP-0151,Male,39,Bachelor's,Sales,Sales Executive,Delhi,2025-01-01,8.2,465000,5,5,No,55,7,No,No
+EMP-0152,Non-binary,47,PhD,Human Resources,HR Manager,Hyderabad,2025-01-01,22.1,435000,5,2,Yes,39,2,No,Yes
+EMP-0153,Male,35,Master's,Sales,Sales Executive,Delhi,2025-01-01,8.1,796000,4,2,No,34,0,No,No
+EMP-0154,Non-binary,33,Diploma,Human Resources,HR Manager,Hyderabad,2025-01-01,10.2,251000,4,2,No,31,4,No,No
+EMP-0155,Male,54,Master's,Engineering,QA Engineer,Delhi,2025-01-01,3.0,753000,5,4,No,8,8,Yes,No
+EMP-0156,Non-binary,25,Master's,Human Resources,HR Manager,Pune,2025-01-01,3.3,665000,2,5,No,25,8,No,Yes
+EMP-0157,Male,34,Bachelor's,Customer Support,Support Manager,Hyderabad,2025-01-01,3.3,324000,3,4,Yes,11,7,Yes,Yes
+EMP-0158,Male,50,Bachelor's,Engineering,Software Engineer,Hyderabad,2025-01-01,11.7,845000,5,4,No,49,6,No,No
+EMP-0159,Female,32,Bachelor's,Marketing,Content Strategist,Chennai,2025-01-01,5.8,504000,1,5,No,8,3,No,Yes
+EMP-0160,Male,53,Diploma,Operations,Operations Associate,Mumbai,2025-01-01,12.4,508000,2,5,No,16,4,No,No
+EMP-0161,Female,57,Master's,Human Resources,HR Executive,Delhi,2025-01-01,15.3,562000,4,2,No,18,5,Yes,No
+EMP-0162,Non-binary,56,Diploma,Customer Support,Team Lead,Mumbai,2025-01-01,12.7,374000,4,4,Yes,38,8,Yes,No
+EMP-0163,Female,39,Diploma,Sales,Sales Executive,Hyderabad,2025-01-01,9.5,780000,5,3,Yes,15,8,No,No
+EMP-0164,Female,49,Diploma,Customer Support,Support Associate,Hyderabad,2025-01-01,14.9,522000,1,1,No,44,5,No,Yes
+EMP-0165,Non-binary,26,Master's,Operations,Process Analyst,Pune,2025-01-01,0.3,568000,2,1,Yes,50,8,No,Yes
+EMP-0166,Female,27,PhD,Sales,Sales Executive,Mumbai,2025-01-01,3.5,661000,2,3,Yes,12,2,No,No
+EMP-0167,Male,33,Diploma,Engineering,Software Engineer,Delhi,2025-01-01,6.2,832000,2,2,No,33,6,No,No
+EMP-0168,Female,38,Diploma,Engineering,Engineering Manager,Mumbai,2025-01-01,4.1,855000,3,4,No,21,3,No,No
+EMP-0169,Female,46,Master's,Human Resources,HR Manager,Pune,2025-01-01,11.8,548000,2,5,No,30,6,No,No
+EMP-0170,Male,39,Diploma,Operations,Process Analyst,Pune,2025-01-01,0.6,493000,2,3,No,32,3,Yes,Yes
+EMP-0171,Male,33,Bachelor's,Human Resources,HR Manager,Mumbai,2025-01-01,2.3,600000,4,4,Yes,14,2,No,No
+EMP-0172,Female,31,PhD,Sales,Account Manager,Mumbai,2025-01-01,9.6,701000,2,3,Yes,19,1,No,Yes
+EMP-0173,Female,54,Diploma,Marketing,Marketing Specialist,Hyderabad,2025-01-01,2.8,802000,5,3,No,33,0,No,No
+EMP-0174,Male,50,Diploma,Engineering,QA Engineer,Bengaluru,2025-01-01,2.8,833000,5,4,No,9,0,No,No
+EMP-0175,Non-binary,55,Bachelor's,Finance,Finance Manager,Chennai,2025-01-01,9.0,653000,3,1,No,57,8,Yes,No
+EMP-0176,Non-binary,29,Bachelor's,Customer Support,Team Lead,Mumbai,2025-01-01,1.2,422000,5,5,No,13,8,Yes,No
+EMP-0177,Non-binary,43,Bachelor's,Human Resources,HR Executive,Bengaluru,2025-01-01,17.0,593000,3,1,No,30,5,No,No
+EMP-0178,Male,32,Master's,Customer Support,Support Manager,Bengaluru,2025-01-01,7.7,463000,2,3,Yes,42,7,No,No
+EMP-0179,Non-binary,36,Master's,Customer Support,Team Lead,Pune,2025-01-01,0.3,226000,1,5,No,24,8,Yes,No
+EMP-0180,Male,38,Bachelor's,Human Resources,HR Executive,Delhi,2025-01-01,4.0,165000,5,4,No,14,4,No,No
+EMP-0181,Non-binary,37,PhD,Operations,Operations Associate,Pune,2025-01-01,10.6,686000,4,2,Yes,16,4,No,No
+EMP-0182,Female,57,Diploma,Sales,Sales Manager,Mumbai,2025-01-01,4.4,580000,5,2,No,25,6,No,No
+EMP-0183,Male,49,Diploma,Finance,Accountant,Hyderabad,2025-01-01,3.7,581000,1,3,No,46,7,No,No
+EMP-0184,Female,35,Diploma,Human Resources,HR Executive,Chennai,2025-01-01,7.0,659000,3,3,No,13,4,No,No
+EMP-0185,Non-binary,43,Diploma,Engineering,QA Engineer,Hyderabad,2025-01-01,12.9,893000,1,5,No,57,5,No,No
+EMP-0186,Female,25,Master's,Human Resources,HR Executive,Pune,2025-01-01,1.8,644000,1,1,Yes,48,4,No,No
+EMP-0187,Male,54,Master's,Operations,Process Analyst,Mumbai,2025-01-01,2.5,643000,5,1,No,11,1,No,No
+EMP-0188,Male,35,Master's,Customer Support,Team Lead,Mumbai,2025-01-01,7.8,621000,1,4,No,12,7,No,No
+EMP-0189,Male,55,Diploma,Finance,Finance Manager,Hyderabad,2025-01-01,6.8,808000,1,3,No,24,6,Yes,No
+EMP-0190,Female,42,Diploma,Marketing,Content Strategist,Delhi,2025-01-01,11.8,619000,1,5,Yes,46,2,Yes,No
+EMP-0191,Non-binary,32,Bachelor's,Sales,Sales Manager,Chennai,2025-01-01,5.9,729000,5,1,Yes,17,7,No,Yes
+EMP-0192,Female,49,Diploma,Operations,Process Analyst,Hyderabad,2025-01-01,12.6,572000,3,1,Yes,40,2,Yes,No
+EMP-0193,Male,25,Diploma,Customer Support,Support Associate,Mumbai,2025-01-01,1.9,345000,4,1,Yes,57,1,No,No
+EMP-0194,Non-binary,36,Bachelor's,Marketing,Marketing Specialist,Hyderabad,2025-01-01,4.4,627000,1,3,Yes,22,0,No,No
+EMP-0195,Female,43,Bachelor's,Engineering,Data Analyst,Mumbai,2025-01-01,9.0,934000,3,3,No,5,0,Yes,No
+EMP-0196,Non-binary,56,Master's,Sales,Sales Manager,Mumbai,2025-01-01,7.3,507000,4,2,No,54,0,No,No
+EMP-0197,Male,43,Diploma,Customer Support,Support Manager,Hyderabad,2025-01-01,1.3,445000,3,3,No,48,1,No,No
+EMP-0198,Female,56,Diploma,Finance,Financial Analyst,Chennai,2025-01-01,20.6,745000,3,1,No,53,7,Yes,No
+EMP-0199,Male,32,Diploma,Marketing,Content Strategist,Pune,2025-01-01,8.4,590000,2,2,No,43,5,Yes,No
+EMP-0200,Non-binary,57,Diploma,Finance,Finance Manager,Mumbai,2025-01-01,24.0,821000,1,5,Yes,48,0,No,Yes
+EMP-0201,Male,24,Master's,Marketing,Content Strategist,Chennai,2025-01-01,0.8,583000,1,4,Yes,8,0,Yes,Yes
+EMP-0202,Non-binary,48,Bachelor's,Customer Support,Team Lead,Bengaluru,2025-01-01,12.1,478000,4,2,Yes,4,0,No,No
+EMP-0203,Non-binary,36,PhD,Customer Support,Support Manager,Delhi,2025-01-01,6.4,310000,3,5,No,47,4,No,No
+EMP-0204,Male,45,PhD,Marketing,Marketing Manager,Delhi,2025-01-01,14.0,751000,3,3,No,56,8,Yes,No
+EMP-0205,Female,24,Master's,Sales,Sales Executive,Mumbai,2025-01-01,2.9,612000,5,5,No,40,0,No,No
+EMP-0206,Female,46,PhD,Customer Support,Support Associate,Chennai,2025-01-01,9.2,397000,3,3,No,50,0,Yes,No
+EMP-0207,Female,44,Master's,Sales,Sales Executive,Bengaluru,2025-01-01,7.9,556000,4,3,No,60,1,No,No
+EMP-0208,Female,54,Master's,Operations,Operations Manager,Delhi,2025-01-01,16.8,456000,5,4,Yes,1,0,Yes,Yes
+EMP-0209,Female,54,Diploma,Engineering,Data Analyst,Delhi,2025-01-01,14.7,1203000,4,2,Yes,10,1,Yes,No
+EMP-0210,Non-binary,43,PhD,Operations,Operations Associate,Chennai,2025-01-01,1.9,410000,5,3,No,18,3,No,Yes
+EMP-0211,Female,29,Diploma,Engineering,Software Engineer,Hyderabad,2025-01-01,0.6,947000,2,5,No,17,5,Yes,No
+EMP-0212,Non-binary,48,Master's,Operations,Operations Associate,Delhi,2025-01-01,17.9,551000,2,3,No,34,3,No,No
+EMP-0213,Non-binary,22,PhD,Customer Support,Support Manager,Hyderabad,2025-01-01,0.7,400000,2,1,No,37,3,No,No
+EMP-0214,Non-binary,24,Diploma,Engineering,Software Engineer,Pune,2025-01-01,1.7,616000,1,5,No,12,8,No,Yes
+EMP-0215,Female,27,Diploma,Finance,Accountant,Hyderabad,2025-01-01,5.9,561000,3,3,No,45,1,Yes,No
+EMP-0216,Female,39,Master's,Marketing,Content Strategist,Pune,2025-01-01,6.9,878000,1,5,Yes,34,6,Yes,Yes
+EMP-0217,Male,31,Master's,Marketing,Marketing Specialist,Bengaluru,2025-01-01,2.0,597000,5,5,No,34,1,No,No
+EMP-0218,Non-binary,23,Master's,Finance,Accountant,Delhi,2025-01-01,1.1,659000,1,3,No,53,3,No,No
+EMP-0219,Male,31,Diploma,Marketing,Marketing Specialist,Bengaluru,2025-01-01,4.2,588000,4,3,No,46,5,No,No
+EMP-0220,Male,56,Master's,Marketing,Marketing Manager,Chennai,2025-01-01,15.7,690000,2,4,No,56,8,No,No
+EMP-0221,Non-binary,39,Bachelor's,Sales,Account Manager,Mumbai,2025-01-01,5.8,595000,1,2,No,60,7,No,No
+EMP-0222,Female,41,Diploma,Human Resources,HR Manager,Chennai,2025-01-01,12.3,762000,2,5,No,50,5,Yes,No
+EMP-0223,Female,42,Bachelor's,Customer Support,Team Lead,Pune,2025-01-01,9.0,336000,5,4,No,17,2,No,No
+EMP-0224,Male,41,PhD,Engineering,QA Engineer,Hyderabad,2025-01-01,5.8,822000,4,5,Yes,47,3,No,No
+EMP-0225,Female,24,Diploma,Human Resources,Talent Acquisition Specialist,Delhi,2025-01-01,2.1,639000,5,3,No,48,5,Yes,No
+EMP-0226,Male,33,Bachelor's,Marketing,Marketing Manager,Chennai,2025-01-01,10.4,678000,5,2,No,59,0,No,No
+EMP-0227,Female,43,Bachelor's,Finance,Financial Analyst,Delhi,2025-01-01,0.7,560000,3,4,Yes,46,2,Yes,No
+EMP-0228,Non-binary,44,PhD,Marketing,Marketing Manager,Hyderabad,2025-01-01,4.6,690000,1,4,No,53,4,No,Yes
+EMP-0229,Male,46,Bachelor's,Operations,Operations Manager,Bengaluru,2025-01-01,3.3,463000,5,1,No,35,6,Yes,No
+EMP-0230,Non-binary,24,Master's,Engineering,Data Analyst,Bengaluru,2025-01-01,1.6,1013000,3,3,No,36,6,Yes,No
+EMP-0231,Non-binary,47,PhD,Customer Support,Team Lead,Mumbai,2025-01-01,18.0,315000,1,3,No,27,4,No,No
+EMP-0232,Male,40,Master's,Customer Support,Support Associate,Bengaluru,2025-01-01,17.2,323000,3,3,No,19,2,No,No
+EMP-0233,Male,38,Bachelor's,Operations,Operations Associate,Chennai,2025-01-01,5.9,826000,5,4,No,35,7,No,Yes
+EMP-0234,Non-binary,49,Bachelor's,Operations,Operations Manager,Bengaluru,2025-01-01,11.2,353000,2,5,No,44,0,No,Yes
+EMP-0235,Female,50,PhD,Sales,Sales Executive,Delhi,2025-01-01,18.3,616000,3,1,No,58,4,No,No
+EMP-0236,Non-binary,29,PhD,Marketing,Marketing Manager,Mumbai,2025-01-01,5.1,490000,1,3,No,52,0,No,No
+EMP-0237,Female,50,Diploma,Marketing,Marketing Manager,Bengaluru,2025-01-01,22.9,637000,1,1,No,54,7,No,Yes
+EMP-0238,Non-binary,53,PhD,Human Resources,HR Executive,Hyderabad,2025-01-01,18.0,217000,3,5,Yes,15,3,No,No
+EMP-0239,Male,54,Bachelor's,Operations,Operations Manager,Mumbai,2025-01-01,12.7,512000,5,3,No,37,5,No,No
+EMP-0240,Non-binary,39,Master's,Human Resources,HR Executive,Delhi,2025-01-01,14.2,601000,2,2,No,45,1,Yes,No
+EMP-0241,Male,36,PhD,Sales,Account Manager,Mumbai,2025-01-01,12.1,613000,4,2,No,43,7,No,No
+EMP-0242,Female,54,PhD,Engineering,QA Engineer,Mumbai,2025-01-01,7.2,1036000,3,1,Yes,56,2,No,No
+EMP-0243,Male,36,Master's,Human Resources,HR Executive,Hyderabad,2025-01-01,1.6,562000,4,2,Yes,51,8,No,No
+EMP-0244,Female,46,Bachelor's,Finance,Finance Manager,Hyderabad,2025-01-01,14.7,677000,2,2,No,11,4,No,No
+EMP-0245,Non-binary,45,Bachelor's,Operations,Operations Associate,Hyderabad,2025-01-01,4.3,744000,4,2,No,33,8,No,No
+EMP-0246,Male,31,Master's,Finance,Financial Analyst,Hyderabad,2025-01-01,0.5,679000,4,4,No,27,3,Yes,No
+EMP-0247,Female,52,Bachelor's,Finance,Finance Manager,Hyderabad,2025-01-01,7.5,812000,2,4,No,10,1,No,No
+EMP-0248,Non-binary,35,PhD,Marketing,Marketing Specialist,Pune,2025-01-01,8.1,797000,5,3,No,44,7,No,No
+EMP-0249,Male,47,Bachelor's,Marketing,Content Strategist,Pune,2025-01-01,23.2,768000,1,4,Yes,53,1,No,Yes
+EMP-0250,Non-binary,53,PhD,Sales,Sales Manager,Pune,2025-01-01,20.0,765000,1,1,Yes,58,4,Yes,Yes
+EMP-0251,Female,22,Diploma,Customer Support,Support Associate,Mumbai,2025-01-01,0.4,344000,4,2,Yes,13,2,Yes,No
+EMP-0252,Male,44,PhD,Customer Support,Support Associate,Delhi,2025-01-01,15.3,350000,3,5,No,8,6,No,No
+EMP-0253,Non-binary,48,PhD,Sales,Sales Manager,Hyderabad,2025-01-01,14.1,815000,5,5,No,34,5,Yes,No
+EMP-0254,Non-binary,35,PhD,Sales,Sales Executive,Chennai,2025-01-01,0.3,404000,3,5,No,60,5,No,No
+EMP-0255,Female,31,PhD,Engineering,QA Engineer,Chennai,2025-01-01,6.6,770000,5,3,No,20,0,No,No
+EMP-0256,Non-binary,34,Master's,Marketing,Marketing Specialist,Chennai,2025-01-01,9.7,529000,5,1,No,23,0,No,No
+EMP-0257,Male,46,Diploma,Human Resources,Talent Acquisition Specialist,Mumbai,2025-01-01,24.2,641000,2,1,No,12,2,No,No
+EMP-0258,Female,43,Bachelor's,Finance,Financial Analyst,Pune,2025-01-01,4.1,686000,3,4,No,2,7,Yes,No
+EMP-0259,Male,27,Bachelor's,Marketing,Marketing Specialist,Bengaluru,2025-01-01,5.6,620000,1,1,Yes,4,7,No,Yes
+EMP-0260,Female,35,Bachelor's,Finance,Financial Analyst,Bengaluru,2025-01-01,4.3,948000,2,3,Yes,59,2,Yes,No
+EMP-0261,Female,58,PhD,Human Resources,HR Executive,Delhi,2025-01-01,17.1,379000,5,5,No,54,5,No,Yes
+EMP-0262,Non-binary,31,Diploma,Engineering,Data Analyst,Bengaluru,2025-01-01,1.9,1026000,3,3,No,54,7,No,No
+EMP-0263,Female,28,Diploma,Human Resources,HR Manager,Pune,2025-01-01,0.3,666000,5,3,Yes,15,6,Yes,No
+EMP-0264,Male,55,Bachelor's,Customer Support,Team Lead,Delhi,2025-01-01,8.0,393000,4,3,No,38,8,No,No
+EMP-0265,Non-binary,51,Bachelor's,Marketing,Content Strategist,Bengaluru,2025-01-01,21.3,425000,4,1,No,35,5,No,No
+EMP-0266,Female,28,PhD,Engineering,Data Analyst,Hyderabad,2025-01-01,6.2,833000,3,4,Yes,25,6,No,No
+EMP-0267,Female,55,Diploma,Human Resources,HR Executive,Bengaluru,2025-01-01,22.1,594000,5,1,No,30,8,No,No
+EMP-0268,Female,57,Diploma,Sales,Sales Manager,Chennai,2025-01-01,11.8,662000,1,1,No,59,5,No,No
+EMP-0269,Non-binary,23,PhD,Marketing,Marketing Manager,Chennai,2025-01-01,0.4,620000,2,3,Yes,11,4,No,No
+EMP-0270,Male,26,Bachelor's,Finance,Finance Manager,Bengaluru,2025-01-01,3.4,1016000,5,4,No,34,8,No,No
+EMP-0271,Male,35,Master's,Customer Support,Team Lead,Bengaluru,2025-01-01,7.7,461000,3,3,No,35,7,No,No
+EMP-0272,Female,43,Bachelor's,Engineering,Software Engineer,Hyderabad,2025-01-01,4.0,825000,3,1,No,40,6,No,No
+EMP-0273,Male,33,Bachelor's,Human Resources,HR Manager,Delhi,2025-01-01,2.0,681000,4,1,No,45,1,No,Yes
+EMP-0274,Non-binary,41,Diploma,Finance,Accountant,Delhi,2025-01-01,6.1,776000,1,3,No,6,3,No,No
+EMP-0275,Non-binary,24,Master's,Finance,Accountant,Mumbai,2025-01-01,1.1,509000,4,2,No,37,2,No,No
+EMP-0276,Female,28,PhD,Engineering,Data Analyst,Pune,2025-01-01,4.0,934000,3,4,Yes,22,0,No,No
+EMP-0277,Non-binary,32,Master's,Customer Support,Support Associate,Mumbai,2025-01-01,7.5,540000,2,5,Yes,42,6,No,No
+EMP-0278,Non-binary,24,PhD,Operations,Process Analyst,Delhi,2025-01-01,2.2,546000,3,5,Yes,37,4,No,No
+EMP-0279,Female,42,PhD,Engineering,Software Engineer,Hyderabad,2025-01-01,5.4,936000,5,4,Yes,19,6,Yes,No
+EMP-0280,Male,56,Diploma,Customer Support,Support Associate,Hyderabad,2025-01-01,6.6,477000,2,5,No,36,2,No,No
+EMP-0281,Male,34,Diploma,Human Resources,HR Manager,Pune,2025-01-01,3.0,666000,2,5,Yes,14,5,No,Yes
+EMP-0282,Non-binary,31,Diploma,Sales,Sales Executive,Delhi,2025-01-01,1.8,683000,1,1,Yes,48,8,No,No
+EMP-0283,Male,43,Diploma,Customer Support,Team Lead,Mumbai,2025-01-01,6.2,479000,5,4,No,36,2,No,No
+EMP-0284,Female,57,Bachelor's,Marketing,Marketing Manager,Hyderabad,2025-01-01,8.2,676000,2,1,No,43,6,No,No
+EMP-0285,Female,44,PhD,Human Resources,HR Manager,Delhi,2025-01-01,12.7,399000,5,5,Yes,27,8,Yes,Yes
+EMP-0286,Non-binary,33,Master's,Operations,Operations Associate,Pune,2025-01-01,8.4,491000,3,1,Yes,6,2,Yes,No
+EMP-0287,Male,40,Diploma,Sales,Sales Manager,Delhi,2025-01-01,2.8,678000,1,2,No,55,1,Yes,Yes
+EMP-0288,Female,23,PhD,Marketing,Content Strategist,Chennai,2025-01-01,0.8,917000,4,5,No,34,2,No,No
+EMP-0289,Non-binary,38,PhD,Operations,Operations Manager,Hyderabad,2025-01-01,11.0,458000,1,1,No,18,1,No,No
+EMP-0290,Non-binary,27,Master's,Human Resources,HR Manager,Delhi,2025-01-01,0.2,303000,1,1,No,36,8,No,No
+EMP-0291,Male,38,PhD,Operations,Operations Associate,Hyderabad,2025-01-01,0.8,556000,4,4,No,33,3,No,No
+EMP-0292,Female,40,PhD,Engineering,Data Analyst,Chennai,2025-01-01,18.7,1216000,1,5,No,14,3,No,No
+EMP-0293,Female,33,Master's,Marketing,Marketing Specialist,Mumbai,2025-01-01,11.4,831000,2,3,No,13,0,No,No
+EMP-0294,Female,29,Master's,Sales,Sales Manager,Chennai,2025-01-01,0.9,486000,3,3,Yes,22,3,No,No
+EMP-0295,Male,45,PhD,Human Resources,Talent Acquisition Specialist,Bengaluru,2025-01-01,21.1,501000,4,5,Yes,54,5,Yes,No
+EMP-0296,Female,43,PhD,Marketing,Marketing Specialist,Hyderabad,2025-01-01,6.0,795000,3,2,No,35,5,No,No
+EMP-0297,Male,33,Bachelor's,Marketing,Content Strategist,Mumbai,2025-01-01,3.4,600000,2,5,No,40,3,No,No
+EMP-0298,Non-binary,46,Diploma,Finance,Accountant,Bengaluru,2025-01-01,5.1,290000,4,5,Yes,48,2,Yes,Yes
+EMP-0299,Non-binary,53,Master's,Marketing,Marketing Manager,Mumbai,2025-01-01,2.6,505000,1,4,Yes,36,1,Yes,Yes
+EMP-0300,Male,53,Bachelor's,Marketing,Content Strategist,Delhi,2025-01-01,17.3,641000,2,1,No,44,0,No,No
+EMP-0301,Male,46,Diploma,Human Resources,HR Executive,Pune,2025-01-01,2.1,567000,3,3,No,60,8,No,No
+EMP-0302,Female,42,Diploma,Human Resources,HR Manager,Chennai,2025-01-01,4.8,522000,2,4,No,20,8,No,No
+EMP-0303,Male,47,Diploma,Finance,Accountant,Delhi,2025-01-01,5.5,686000,5,4,No,36,7,Yes,No
+EMP-0304,Female,34,Bachelor's,Engineering,Data Analyst,Pune,2025-01-01,12.9,863000,1,4,No,51,8,No,Yes
+EMP-0305,Female,53,Bachelor's,Operations,Operations Manager,Pune,2025-01-01,5.3,515000,2,4,No,18,1,Yes,Yes
+EMP-0306,Non-binary,43,PhD,Finance,Financial Analyst,Pune,2025-01-01,6.4,571000,2,5,Yes,25,5,No,No
+EMP-0307,Male,58,Bachelor's,Finance,Accountant,Pune,2025-01-01,13.8,888000,4,1,No,9,8,No,No
+EMP-0308,Non-binary,55,Master's,Sales,Sales Executive,Chennai,2025-01-01,5.0,705000,3,4,No,33,4,No,No
+EMP-0309,Male,33,Master's,Human Resources,HR Manager,Chennai,2025-01-01,2.2,533000,3,4,No,34,3,No,No
+EMP-0310,Non-binary,50,PhD,Finance,Finance Manager,Pune,2025-01-01,20.4,695000,1,5,No,9,2,No,No
+EMP-0311,Male,46,PhD,Human Resources,HR Manager,Delhi,2025-01-01,4.8,635000,1,5,No,27,5,No,No
+EMP-0312,Male,50,Diploma,Engineering,Data Analyst,Mumbai,2025-01-01,20.4,696000,4,3,No,41,8,No,No
+EMP-0313,Female,44,PhD,Human Resources,Talent Acquisition Specialist,Pune,2025-01-01,10.3,726000,2,3,No,55,4,No,No
+EMP-0314,Female,38,PhD,Sales,Sales Executive,Hyderabad,2025-01-01,6.0,532000,5,2,Yes,39,4,No,No
+EMP-0315,Female,27,PhD,Human Resources,HR Executive,Bengaluru,2025-01-01,1.4,726000,2,2,Yes,17,4,Yes,Yes
+EMP-0316,Male,35,Bachelor's,Customer Support,Support Associate,Delhi,2025-01-01,0.8,343000,5,3,Yes,2,0,No,No
+EMP-0317,Male,38,PhD,Customer Support,Support Associate,Mumbai,2025-01-01,3.6,468000,3,5,No,8,7,No,No
+EMP-0318,Female,27,Bachelor's,Marketing,Content Strategist,Hyderabad,2025-01-01,0.4,789000,1,3,No,16,5,No,No
+EMP-0319,Male,57,PhD,Marketing,Content Strategist,Chennai,2025-01-01,1.2,326000,5,3,Yes,52,3,No,No
+EMP-0320,Female,23,PhD,Customer Support,Team Lead,Pune,2025-01-01,0.9,459000,3,2,No,50,5,Yes,No
+EMP-0321,Male,54,Bachelor's,Human Resources,HR Manager,Delhi,2025-01-01,1.0,754000,2,1,No,47,5,Yes,No
+EMP-0322,Female,53,PhD,Sales,Sales Executive,Mumbai,2025-01-01,23.1,905000,1,1,No,57,4,No,No
+EMP-0323,Female,25,Master's,Operations,Process Analyst,Bengaluru,2025-01-01,2.2,327000,3,2,Yes,28,6,No,No
+EMP-0324,Female,44,PhD,Human Resources,HR Executive,Chennai,2025-01-01,5.6,771000,1,3,Yes,40,6,No,Yes
+EMP-0325,Female,29,Bachelor's,Finance,Financial Analyst,Chennai,2025-01-01,6.0,604000,5,4,No,58,7,No,No
+EMP-0326,Male,48,Master's,Operations,Operations Manager,Hyderabad,2025-01-01,4.2,654000,5,5,Yes,19,3,Yes,No
+EMP-0327,Female,28,Diploma,Marketing,Content Strategist,Delhi,2025-01-01,2.8,594000,4,2,No,39,5,No,Yes
+EMP-0328,Non-binary,37,Bachelor's,Human Resources,Talent Acquisition Specialist,Delhi,2025-01-01,7.2,423000,3,2,No,3,2,Yes,No
+EMP-0329,Non-binary,25,Bachelor's,Finance,Accountant,Pune,2025-01-01,2.8,479000,3,5,Yes,19,0,Yes,No
+EMP-0330,Female,28,Diploma,Operations,Operations Manager,Bengaluru,2025-01-01,0.6,693000,3,2,No,23,0,Yes,No
+EMP-0331,Male,52,Diploma,Sales,Sales Manager,Bengaluru,2025-01-01,3.8,725000,1,2,No,35,4,No,No
+EMP-0332,Female,30,Diploma,Customer Support,Support Associate,Delhi,2025-01-01,7.2,353000,4,1,No,22,1,No,No
+EMP-0333,Non-binary,28,Bachelor's,Human Resources,Talent Acquisition Specialist,Pune,2025-01-01,3.1,562000,1,2,No,20,1,No,No
+EMP-0334,Non-binary,37,Bachelor's,Sales,Sales Manager,Hyderabad,2025-01-01,2.2,361000,5,1,No,40,1,No,No
+EMP-0335,Male,30,Bachelor's,Engineering,Data Analyst,Hyderabad,2025-01-01,7.1,890000,3,3,No,24,3,Yes,No
+EMP-0336,Female,38,Diploma,Marketing,Marketing Specialist,Chennai,2025-01-01,13.7,725000,2,2,No,12,8,No,Yes
+EMP-0337,Non-binary,33,Diploma,Customer Support,Team Lead,Bengaluru,2025-01-01,9.5,409000,4,4,No,60,5,No,No
+EMP-0338,Male,54,PhD,Customer Support,Team Lead,Delhi,2025-01-01,21.1,236000,5,1,No,13,0,No,No
+EMP-0339,Male,57,Bachelor's,Operations,Process Analyst,Bengaluru,2025-01-01,7.7,539000,1,1,No,4,3,No,Yes
+EMP-0340,Male,32,Master's,Human Resources,HR Executive,Delhi,2025-01-01,4.3,572000,2,4,No,2,0,No,No
+EMP-0341,Male,43,Bachelor's,Sales,Sales Executive,Bengaluru,2025-01-01,21.6,619000,5,1,Yes,36,4,No,No
+EMP-0342,Female,50,Bachelor's,Finance,Finance Manager,Mumbai,2025-01-01,20.7,803000,4,2,Yes,51,3,No,No
+EMP-0343,Female,46,Bachelor's,Human Resources,HR Manager,Hyderabad,2025-01-01,21.4,523000,1,3,No,7,7,No,Yes
+EMP-0344,Non-binary,25,Bachelor's,Engineering,Software Engineer,Mumbai,2025-01-01,3.2,504000,3,2,Yes,58,1,No,No
+EMP-0345,Male,45,Diploma,Operations,Operations Associate,Hyderabad,2025-01-01,18.9,505000,5,4,No,52,4,No,No
+EMP-0346,Male,34,Bachelor's,Finance,Financial Analyst,Mumbai,2025-01-01,6.5,658000,3,1,No,2,8,No,No
+EMP-0347,Female,26,Bachelor's,Human Resources,Talent Acquisition Specialist,Bengaluru,2025-01-01,1.7,392000,4,4,Yes,32,8,Yes,No
+EMP-0348,Male,43,Bachelor's,Engineering,QA Engineer,Mumbai,2025-01-01,1.7,686000,1,2,No,57,4,No,No
+EMP-0349,Male,44,Diploma,Marketing,Marketing Manager,Hyderabad,2025-01-01,7.7,572000,2,1,No,59,1,No,No
+EMP-0350,Female,58,PhD,Sales,Account Manager,Bengaluru,2025-01-01,18.8,406000,5,4,No,42,1,No,Yes
+EMP-0351,Male,38,Diploma,Engineering,Software Engineer,Mumbai,2025-01-01,4.0,1019000,4,3,No,47,4,No,No
+EMP-0352,Male,22,Diploma,Engineering,Engineering Manager,Delhi,2025-01-01,0.8,955000,5,1,No,14,4,Yes,No
+EMP-0353,Non-binary,47,Master's,Marketing,Marketing Specialist,Chennai,2025-01-01,5.3,767000,4,4,No,3,8,No,No
+EMP-0354,Female,27,Master's,Customer Support,Support Associate,Chennai,2025-01-01,5.1,367000,5,4,Yes,60,1,Yes,Yes
+EMP-0355,Male,38,Bachelor's,Finance,Accountant,Delhi,2025-01-01,0.4,943000,4,3,No,20,5,No,No
+EMP-0356,Female,29,PhD,Human Resources,Talent Acquisition Specialist,Mumbai,2025-01-01,4.4,475000,1,5,Yes,49,4,Yes,No
+EMP-0357,Female,47,Bachelor's,Sales,Account Manager,Pune,2025-01-01,18.1,506000,5,3,No,16,3,No,No
+EMP-0358,Female,54,PhD,Operations,Process Analyst,Pune,2025-01-01,8.2,469000,3,3,No,4,3,Yes,No
+EMP-0359,Female,42,Diploma,Marketing,Marketing Specialist,Bengaluru,2025-01-01,6.2,764000,1,4,No,3,1,No,Yes
+EMP-0360,Male,51,Diploma,Sales,Account Manager,Delhi,2025-01-01,11.3,800000,4,2,Yes,5,3,Yes,Yes
+EMP-0361,Female,43,Master's,Customer Support,Team Lead,Bengaluru,2025-01-01,5.9,513000,5,3,No,29,8,No,No
+EMP-0362,Female,26,Diploma,Marketing,Marketing Specialist,Chennai,2025-01-01,2.9,751000,5,4,Yes,1,8,No,No
+EMP-0363,Male,54,PhD,Customer Support,Team Lead,Pune,2025-01-01,17.7,447000,2,2,No,10,4,No,No
+EMP-0364,Non-binary,32,Master's,Customer Support,Team Lead,Chennai,2025-01-01,5.3,450000,5,4,Yes,41,1,No,Yes
+EMP-0365,Female,39,Master's,Customer Support,Support Associate,Hyderabad,2025-01-01,15.5,233000,5,1,No,5,1,No,No
+EMP-0366,Male,26,Master's,Engineering,Engineering Manager,Hyderabad,2025-01-01,3.6,1051000,5,1,Yes,35,4,No,No
+EMP-0367,Male,47,Master's,Customer Support,Support Associate,Delhi,2025-01-01,18.4,469000,2,5,Yes,24,5,No,Yes
+EMP-0368,Female,47,Diploma,Finance,Accountant,Delhi,2025-01-01,10.3,386000,2,4,No,56,3,No,No
+EMP-0369,Non-binary,48,PhD,Finance,Financial Analyst,Bengaluru,2025-01-01,21.8,712000,3,4,No,9,8,No,No
+EMP-0370,Non-binary,51,Bachelor's,Finance,Financial Analyst,Hyderabad,2025-01-01,13.2,530000,5,2,No,39,3,No,No
+EMP-0371,Female,31,Master's,Finance,Finance Manager,Mumbai,2025-01-01,5.3,686000,5,5,Yes,9,8,No,No
+EMP-0372,Non-binary,39,Bachelor's,Engineering,QA Engineer,Hyderabad,2025-01-01,8.5,905000,4,3,No,30,2,No,No
+EMP-0373,Male,55,Bachelor's,Sales,Sales Executive,Hyderabad,2025-01-01,0.8,850000,2,2,No,39,1,No,Yes
+EMP-0374,Non-binary,42,Diploma,Operations,Operations Associate,Hyderabad,2025-01-01,1.4,691000,2,1,Yes,19,5,No,No
+EMP-0375,Non-binary,38,Diploma,Human Resources,HR Manager,Chennai,2025-01-01,6.6,412000,3,5,No,54,1,Yes,No
+EMP-0376,Male,32,Diploma,Sales,Sales Manager,Mumbai,2025-01-01,4.4,519000,3,2,Yes,20,3,Yes,No
+EMP-0377,Non-binary,24,Bachelor's,Sales,Account Manager,Delhi,2025-01-01,2.1,1000000,2,1,Yes,13,6,No,No
+EMP-0378,Non-binary,40,Master's,Operations,Process Analyst,Hyderabad,2025-01-01,14.0,418000,1,5,Yes,40,1,No,No
+EMP-0379,Female,53,Bachelor's,Sales,Sales Executive,Bengaluru,2025-01-01,6.1,847000,5,1,No,13,0,No,No
+EMP-0380,Female,57,PhD,Marketing,Marketing Specialist,Mumbai,2025-01-01,24.4,787000,2,4,No,9,0,No,Yes
+EMP-0381,Non-binary,47,Master's,Human Resources,HR Manager,Chennai,2025-01-01,23.2,592000,4,4,Yes,18,5,No,Yes
+EMP-0382,Female,38,Master's,Engineering,Data Analyst,Delhi,2025-01-01,2.9,1031000,5,4,No,15,5,No,No
+EMP-0383,Male,40,Bachelor's,Marketing,Marketing Manager,Hyderabad,2025-01-01,7.1,521000,1,1,Yes,57,4,No,Yes
+EMP-0384,Female,52,PhD,Customer Support,Team Lead,Delhi,2025-01-01,10.8,619000,4,5,No,10,3,No,No
+EMP-0385,Non-binary,41,Bachelor's,Finance,Accountant,Pune,2025-01-01,5.8,997000,2,1,No,46,2,Yes,Yes
+EMP-0386,Female,55,Diploma,Sales,Account Manager,Pune,2025-01-01,19.5,718000,1,1,No,30,0,Yes,No
+EMP-0387,Female,50,Diploma,Sales,Sales Manager,Bengaluru,2025-01-01,10.2,901000,5,4,Yes,33,5,No,Yes
+EMP-0388,Non-binary,40,Master's,Marketing,Marketing Specialist,Delhi,2025-01-01,11.3,488000,3,4,No,12,2,No,No
+EMP-0389,Male,36,Master's,Finance,Finance Manager,Delhi,2025-01-01,13.7,386000,5,1,Yes,38,1,No,No
+EMP-0390,Male,44,Diploma,Engineering,QA Engineer,Hyderabad,2025-01-01,5.1,715000,5,5,No,57,2,Yes,No
+EMP-0391,Non-binary,29,Bachelor's,Sales,Sales Manager,Bengaluru,2025-01-01,4.4,652000,5,1,No,53,6,No,No
+EMP-0392,Male,40,Master's,Engineering,Data Analyst,Bengaluru,2025-01-01,6.4,867000,3,2,No,50,5,Yes,No
+EMP-0393,Male,22,Diploma,Customer Support,Support Manager,Hyderabad,2025-01-01,0.5,466000,2,1,No,4,4,Yes,No
+EMP-0394,Female,52,Master's,Human Resources,HR Executive,Bengaluru,2025-01-01,3.7,642000,2,4,Yes,44,3,Yes,No
+EMP-0395,Female,46,Master's,Operations,Process Analyst,Chennai,2025-01-01,19.1,423000,2,3,Yes,33,6,No,No
+EMP-0396,Female,23,Master's,Marketing,Marketing Specialist,Chennai,2025-01-01,1.6,819000,5,2,No,43,4,No,No
+EMP-0397,Non-binary,29,Diploma,Sales,Sales Executive,Delhi,2025-01-01,6.5,643000,3,4,No,14,7,No,No
+EMP-0398,Non-binary,41,Diploma,Engineering,Engineering Manager,Pune,2025-01-01,6.4,887000,5,1,Yes,41,4,No,No
+EMP-0399,Non-binary,47,Diploma,Human Resources,Talent Acquisition Specialist,Hyderabad,2025-01-01,3.5,473000,5,1,No,60,2,No,No
+EMP-0400,Female,39,Bachelor's,Customer Support,Support Manager,Mumbai,2025-01-01,14.7,469000,5,5,Yes,3,7,No,No
+EMP-0401,Female,37,Bachelor's,Operations,Operations Associate,Mumbai,2025-01-01,15.1,595000,2,4,No,40,5,Yes,No
+EMP-0402,Female,22,Master's,Marketing,Marketing Manager,Bengaluru,2025-01-01,0.6,563000,4,4,Yes,47,1,No,No
+EMP-0403,Non-binary,24,PhD,Marketing,Content Strategist,Mumbai,2025-01-01,1.7,769000,5,1,Yes,43,2,No,No
+EMP-0404,Male,50,Master's,Customer Support,Team Lead,Pune,2025-01-01,17.9,548000,2,2,No,26,4,No,No
+EMP-0405,Female,29,PhD,Human Resources,HR Executive,Hyderabad,2025-01-01,1.0,527000,2,3,No,5,4,No,No
+EMP-0406,Male,58,PhD,Operations,Operations Associate,Pune,2025-01-01,22.4,258000,1,3,No,41,1,No,Yes
+EMP-0407,Female,54,Bachelor's,Operations,Operations Associate,Chennai,2025-01-01,22.5,571000,5,4,Yes,25,4,No,No
+EMP-0408,Non-binary,49,PhD,Engineering,Data Analyst,Hyderabad,2025-01-01,7.1,717000,5,5,No,23,3,Yes,No
+EMP-0409,Female,26,Diploma,Operations,Operations Manager,Bengaluru,2025-01-01,3.4,496000,2,1,Yes,56,5,No,No
+EMP-0410,Female,31,PhD,Finance,Finance Manager,Delhi,2025-01-01,1.8,1013000,5,1,No,26,3,No,No
+EMP-0411,Male,36,Bachelor's,Customer Support,Support Associate,Bengaluru,2025-01-01,0.9,394000,2,1,Yes,43,4,Yes,Yes
+EMP-0412,Non-binary,23,Diploma,Marketing,Marketing Manager,Chennai,2025-01-01,1.3,448000,3,1,No,11,6,No,Yes
+EMP-0413,Male,48,Bachelor's,Marketing,Content Strategist,Hyderabad,2025-01-01,18.7,613000,2,3,Yes,43,8,No,Yes
+EMP-0414,Non-binary,34,PhD,Human Resources,HR Executive,Mumbai,2025-01-01,9.6,544000,4,4,No,33,8,No,No
+EMP-0415,Non-binary,46,Bachelor's,Engineering,Engineering Manager,Mumbai,2025-01-01,17.4,742000,5,4,Yes,20,0,No,No
+EMP-0416,Non-binary,45,Master's,Finance,Financial Analyst,Hyderabad,2025-01-01,21.7,854000,1,5,Yes,56,7,No,No
+EMP-0417,Non-binary,46,PhD,Engineering,Engineering Manager,Bengaluru,2025-01-01,0.8,956000,4,2,No,48,8,No,No
+EMP-0418,Female,35,Bachelor's,Finance,Finance Manager,Mumbai,2025-01-01,6.8,539000,1,2,Yes,35,2,No,Yes
+EMP-0419,Male,56,Diploma,Customer Support,Support Manager,Bengaluru,2025-01-01,4.7,641000,1,4,No,43,4,No,No
+EMP-0420,Male,49,Diploma,Marketing,Marketing Specialist,Chennai,2025-01-01,6.9,316000,2,4,No,22,5,No,No
+EMP-0421,Female,52,PhD,Human Resources,HR Manager,Delhi,2025-01-01,1.1,583000,1,5,No,49,0,Yes,Yes
+EMP-0422,Non-binary,30,Diploma,Sales,Sales Executive,Mumbai,2025-01-01,2.5,793000,3,2,No,51,3,Yes,No
+EMP-0423,Female,56,Diploma,Sales,Sales Executive,Mumbai,2025-01-01,8.7,434000,1,4,No,6,1,No,No
+EMP-0424,Non-binary,44,Master's,Finance,Financial Analyst,Hyderabad,2025-01-01,10.2,525000,2,4,Yes,54,4,No,No
+EMP-0425,Female,37,PhD,Customer Support,Support Associate,Hyderabad,2025-01-01,6.0,174000,2,2,Yes,16,5,No,Yes
+EMP-0426,Female,46,Bachelor's,Sales,Sales Executive,Mumbai,2025-01-01,3.1,732000,3,1,Yes,25,8,No,No
+EMP-0427,Female,48,PhD,Operations,Operations Manager,Bengaluru,2025-01-01,11.6,516000,2,4,No,56,5,No,Yes
+EMP-0428,Female,46,Master's,Marketing,Marketing Manager,Pune,2025-01-01,11.5,576000,1,5,Yes,33,4,No,Yes
+EMP-0429,Non-binary,56,Diploma,Operations,Operations Associate,Mumbai,2025-01-01,14.9,551000,3,3,No,58,0,No,Yes
+EMP-0430,Female,22,Bachelor's,Marketing,Content Strategist,Hyderabad,2025-01-01,0.7,811000,2,3,No,43,7,No,No
+EMP-0431,Non-binary,50,Bachelor's,Operations,Operations Manager,Mumbai,2025-01-01,7.2,726000,4,2,No,41,0,No,No
+EMP-0432,Female,34,PhD,Sales,Sales Manager,Chennai,2025-01-01,10.5,908000,3,3,No,41,3,No,No
+EMP-0433,Non-binary,48,Bachelor's,Engineering,Software Engineer,Hyderabad,2025-01-01,2.3,948000,2,2,No,39,0,No,No
+EMP-0434,Non-binary,49,Bachelor's,Customer Support,Team Lead,Chennai,2025-01-01,17.0,401000,3,1,No,21,7,No,Yes
+EMP-0435,Non-binary,36,Diploma,Operations,Process Analyst,Hyderabad,2025-01-01,10.2,617000,5,2,No,55,3,Yes,No
+EMP-0436,Male,34,Bachelor's,Sales,Sales Manager,Delhi,2025-01-01,3.1,1124000,2,2,No,20,0,Yes,No
+EMP-0437,Male,53,Diploma,Sales,Sales Manager,Hyderabad,2025-01-01,9.9,881000,5,2,Yes,20,6,No,No
+EMP-0438,Female,28,Diploma,Human Resources,Talent Acquisition Specialist,Mumbai,2025-01-01,3.0,596000,5,3,Yes,11,8,Yes,No
+EMP-0439,Female,41,PhD,Marketing,Marketing Specialist,Pune,2025-01-01,19.7,412000,4,1,Yes,41,4,No,No
+EMP-0440,Male,44,PhD,Engineering,Software Engineer,Bengaluru,2025-01-01,6.1,659000,1,2,No,46,4,No,Yes
+EMP-0441,Non-binary,38,PhD,Human Resources,HR Manager,Pune,2025-01-01,9.2,488000,3,3,No,29,6,No,Yes
+EMP-0442,Female,39,PhD,Operations,Operations Associate,Pune,2025-01-01,11.6,357000,2,1,Yes,26,0,Yes,No
+EMP-0443,Male,54,Master's,Customer Support,Team Lead,Delhi,2025-01-01,19.3,474000,2,1,No,7,1,No,No
+EMP-0444,Non-binary,33,PhD,Marketing,Marketing Manager,Delhi,2025-01-01,1.7,565000,5,4,No,52,1,No,Yes
+EMP-0445,Female,55,Master's,Customer Support,Support Associate,Bengaluru,2025-01-01,16.3,479000,4,2,Yes,18,0,No,No
+EMP-0446,Male,34,PhD,Customer Support,Support Manager,Mumbai,2025-01-01,11.7,338000,3,4,No,52,3,Yes,No
+EMP-0447,Non-binary,33,Bachelor's,Operations,Operations Associate,Mumbai,2025-01-01,4.9,670000,3,2,Yes,35,3,No,No
+EMP-0448,Non-binary,51,Bachelor's,Human Resources,HR Executive,Pune,2025-01-01,8.4,710000,4,2,No,29,2,No,No
+EMP-0449,Male,23,Master's,Operations,Operations Associate,Hyderabad,2025-01-01,1.1,781000,4,3,No,28,6,No,No
+EMP-0450,Male,40,Diploma,Marketing,Marketing Specialist,Chennai,2025-01-01,5.0,321000,3,2,No,59,0,No,No
+EMP-0451,Male,25,Bachelor's,Human Resources,Talent Acquisition Specialist,Mumbai,2025-01-01,0.5,631000,5,1,No,10,0,Yes,No
+EMP-0452,Female,40,Bachelor's,Finance,Finance Manager,Chennai,2025-01-01,16.9,693000,4,3,No,17,1,Yes,No
+EMP-0453,Non-binary,49,Master's,Engineering,Data Analyst,Bengaluru,2025-01-01,21.8,867000,5,1,Yes,5,0,Yes,Yes
+EMP-0454,Non-binary,24,Diploma,Marketing,Content Strategist,Chennai,2025-01-01,1.8,753000,5,4,Yes,2,1,No,No
+EMP-0455,Male,52,Bachelor's,Operations,Operations Associate,Hyderabad,2025-01-01,19.2,512000,2,4,No,2,7,No,No
+EMP-0456,Male,42,Master's,Marketing,Content Strategist,Pune,2025-01-01,13.7,560000,2,2,No,18,0,No,No
+EMP-0457,Female,46,PhD,Marketing,Marketing Manager,Bengaluru,2025-01-01,9.8,637000,1,1,No,3,6,No,No
+EMP-0458,Female,56,Bachelor's,Human Resources,Talent Acquisition Specialist,Pune,2025-01-01,8.4,472000,2,3,No,14,5,Yes,No
+EMP-0459,Non-binary,23,Diploma,Marketing,Content Strategist,Pune,2025-01-01,1.2,572000,4,4,No,40,8,Yes,No
+EMP-0460,Female,30,PhD,Human Resources,HR Executive,Hyderabad,2025-01-01,0.9,682000,5,2,No,57,6,Yes,No
+EMP-0461,Non-binary,56,PhD,Operations,Process Analyst,Mumbai,2025-01-01,9.5,456000,3,3,Yes,16,3,No,No
+EMP-0462,Female,46,Diploma,Customer Support,Support Associate,Hyderabad,2025-01-01,14.8,703000,5,4,No,12,2,No,No
+EMP-0463,Male,29,PhD,Operations,Operations Manager,Delhi,2025-01-01,3.1,639000,2,5,No,29,3,No,No
+EMP-0464,Male,44,Bachelor's,Sales,Sales Manager,Bengaluru,2025-01-01,5.4,701000,4,3,Yes,39,4,No,No
+EMP-0465,Male,31,Master's,Operations,Operations Manager,Hyderabad,2025-01-01,9.1,511000,1,5,No,24,6,No,No
+EMP-0466,Male,28,Bachelor's,Operations,Operations Manager,Chennai,2025-01-01,6.2,628000,2,4,No,60,4,No,No
+EMP-0467,Female,32,Bachelor's,Engineering,Software Engineer,Chennai,2025-01-01,3.3,677000,5,3,Yes,5,1,No,No
+EMP-0468,Female,32,Bachelor's,Finance,Finance Manager,Pune,2025-01-01,7.4,718000,3,5,No,56,6,Yes,No
+EMP-0469,Non-binary,42,PhD,Customer Support,Team Lead,Pune,2025-01-01,20.8,316000,2,5,No,36,4,Yes,No
+EMP-0470,Non-binary,51,Diploma,Operations,Operations Associate,Chennai,2025-01-01,1.1,579000,2,2,Yes,60,1,Yes,Yes
+EMP-0471,Non-binary,45,Master's,Sales,Sales Executive,Chennai,2025-01-01,18.7,539000,1,1,No,21,2,No,No
+EMP-0472,Non-binary,41,PhD,Human Resources,HR Manager,Hyderabad,2025-01-01,5.6,438000,4,2,No,10,1,No,No
+EMP-0473,Male,39,Bachelor's,Marketing,Marketing Manager,Mumbai,2025-01-01,0.6,537000,4,3,No,34,8,No,No
+EMP-0474,Non-binary,23,PhD,Finance,Financial Analyst,Mumbai,2025-01-01,0.5,774000,1,3,Yes,59,2,No,No
+EMP-0475,Female,33,Master's,Human Resources,Talent Acquisition Specialist,Pune,2025-01-01,1.5,704000,2,5,No,48,4,No,No
+EMP-0476,Female,53,Diploma,Human Resources,HR Executive,Delhi,2025-01-01,6.0,645000,5,3,No,20,7,No,No
+EMP-0477,Female,26,PhD,Marketing,Content Strategist,Mumbai,2025-01-01,0.7,644000,5,1,No,34,6,No,No
+EMP-0478,Non-binary,26,PhD,Operations,Process Analyst,Delhi,2025-01-01,0.3,696000,5,4,No,8,4,No,No
+EMP-0479,Female,35,Master's,Finance,Finance Manager,Mumbai,2025-01-01,3.8,526000,1,2,Yes,15,0,No,Yes
+EMP-0480,Female,46,Master's,Finance,Financial Analyst,Mumbai,2025-01-01,23.5,733000,1,5,Yes,58,7,Yes,No
+EMP-0481,Non-binary,54,Master's,Human Resources,HR Manager,Delhi,2025-01-01,2.7,455000,5,5,Yes,46,8,No,No
+EMP-0482,Male,45,PhD,Human Resources,Talent Acquisition Specialist,Chennai,2025-01-01,7.1,626000,4,3,Yes,56,3,No,No
+EMP-0483,Female,51,Bachelor's,Operations,Operations Manager,Delhi,2025-01-01,10.3,322000,1,5,Yes,59,3,No,No
+EMP-0484,Male,38,PhD,Operations,Process Analyst,Delhi,2025-01-01,10.9,629000,3,1,Yes,47,1,No,No
+EMP-0485,Non-binary,58,Diploma,Sales,Account Manager,Chennai,2025-01-01,4.8,457000,1,2,Yes,36,3,No,No
+EMP-0486,Female,30,Master's,Marketing,Marketing Specialist,Delhi,2025-01-01,9.0,771000,5,3,No,5,4,No,No
+EMP-0487,Male,56,Master's,Engineering,QA Engineer,Bengaluru,2025-01-01,3.1,770000,1,3,No,45,7,No,No
+EMP-0488,Non-binary,31,Diploma,Marketing,Content Strategist,Pune,2025-01-01,0.4,576000,5,1,Yes,14,8,No,No
+EMP-0489,Non-binary,58,Diploma,Engineering,Software Engineer,Chennai,2025-01-01,4.2,867000,4,5,No,1,8,No,No
+EMP-0490,Non-binary,36,Diploma,Customer Support,Support Manager,Chennai,2025-01-01,5.3,435000,2,2,No,49,8,No,Yes
+EMP-0491,Male,22,Master's,Marketing,Marketing Specialist,Pune,2025-01-01,0.7,629000,1,3,No,22,1,No,No
+EMP-0492,Non-binary,30,Master's,Sales,Sales Executive,Chennai,2025-01-01,6.4,950000,3,3,No,55,6,Yes,No
+EMP-0493,Male,45,PhD,Finance,Accountant,Pune,2025-01-01,12.9,569000,2,4,No,36,5,No,No
+EMP-0494,Female,26,Bachelor's,Human Resources,Talent Acquisition Specialist,Chennai,2025-01-01,3.2,449000,3,4,No,7,8,No,No
+EMP-0495,Male,36,Bachelor's,Sales,Sales Executive,Delhi,2025-01-01,5.6,798000,1,4,Yes,57,3,No,No
+EMP-0496,Female,48,Diploma,Finance,Financial Analyst,Delhi,2025-01-01,3.1,833000,5,4,No,33,7,No,No
+EMP-0497,Female,25,Diploma,Customer Support,Team Lead,Hyderabad,2025-01-01,3.4,386000,1,1,No,8,5,No,No
+EMP-0498,Female,50,Bachelor's,Customer Support,Support Manager,Delhi,2025-01-01,24.7,101000,5,3,Yes,22,5,Yes,No
+EMP-0499,Non-binary,52,Bachelor's,Finance,Financial Analyst,Hyderabad,2025-01-01,17.2,502000,2,5,No,10,6,No,No
+EMP-0500,Female,54,Master's,Sales,Sales Executive,Mumbai,2025-01-01,12.2,889000,2,2,Yes,8,5,No,No
