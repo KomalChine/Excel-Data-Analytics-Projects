@@ -1,0 +1,601 @@
+﻿Order Date,Order ID,Customer,Region,City,Category,Product,Quantity,Unit Price,Discount,Sales,Cost,Profit,Payment Method
+2025-01-01,ORD-0015,Ananya Singh,East,Guwahati,Electronics,Headphones,3,1724.96,0.05,4916.14,3150,1766.14,Net Banking
+2025-01-01,ORD-0044,Arjun Das,South,Chennai,Home & Kitchen,Mixer Grinder,6,3263.06,0.05,18599.44,13500,5099.44,UPI
+2025-01-03,ORD-0446,Reyansh Shah,East,Guwahati,Furniture,Office Chair,2,6600.76,0.05,12541.44,8600,3941.44,Net Banking
+2025-01-05,ORD-0419,Priya Iyer,South,Hyderabad,Office Supplies,Pen Set,4,173.33,0.15,589.32,260,329.32,UPI
+2025-01-05,ORD-0542,Diya Patel,North,Lucknow,Furniture,Study Table,1,6805.67,0,6805.67,5100,1705.67,Net Banking
+2025-01-07,ORD-0424,Isha Gupta,South,Chennai,Electronics,Monitor,6,9117.84,0.2,43765.63,42600,1165.63,Cash
+2025-01-07,ORD-0510,Rohan Verma,South,Kochi,Electronics,Keyboard,3,1269.47,0.15,3237.15,1950,1287.15,Net Banking
+2025-01-08,ORD-0498,Ananya Singh,North,Delhi,Office Supplies,Pen Set,3,172.12,0.05,490.54,195,295.54,Cash
+2025-01-09,ORD-0175,Reyansh Shah,East,Kolkata,Office Supplies,Printer Paper,6,459.23,0.2,2204.3,1620,584.3,Net Banking
+2025-01-09,ORD-0252,Sara Khan,East,Guwahati,Office Supplies,Printer Paper,2,430.56,0.05,818.06,540,278.06,Credit Card
+2025-01-09,ORD-0308,Priya Iyer,North,Jaipur,Home & Kitchen,Cookware Set,1,2285.69,0.1,2057.12,1500,557.12,Credit Card
+2025-01-10,ORD-0548,Ananya Singh,East,Patna,Office Supplies,Notebook Pack,6,367.87,0.15,1876.14,900,976.14,Net Banking
+2025-01-11,ORD-0383,Myra Kulkarni,East,Bhubaneswar,Office Supplies,Pen Set,4,185.32,0.2,593.02,260,333.02,Credit Card
+2025-01-12,ORD-0203,Aarav Sharma,North,Lucknow,Home & Kitchen,Mixer Grinder,2,3124.68,0.15,5311.96,4500,811.96,Debit Card
+2025-01-12,ORD-0238,Isha Gupta,East,Guwahati,Home & Kitchen,Water Bottle,4,431.82,0,1727.28,720,1007.28,Credit Card
+2025-01-12,ORD-0534,Aarav Sharma,South,Bengaluru,Office Supplies,Pen Set,2,178.23,0.2,285.17,130,155.17,Credit Card
+2025-01-17,ORD-0551,Diya Patel,West,Surat,Office Supplies,Notebook Pack,3,355.93,0,1067.79,450,617.79,UPI
+2025-01-17,ORD-0589,Ananya Singh,West,Mumbai,Office Supplies,Desk Organizer,2,565.08,0.2,904.13,560,344.13,Credit Card
+2025-01-18,ORD-0526,Rohan Verma,East,Bhubaneswar,Home & Kitchen,Cookware Set,5,2418.64,0.05,11488.54,7500,3988.54,Net Banking
+2025-01-19,ORD-0397,Ishaan Reddy,South,Chennai,Furniture,Bookshelf,5,5018.8,0.2,20075.2,15500,4575.2,Debit Card
+2025-01-20,ORD-0119,Meera Nair,East,Guwahati,Electronics,Headphones,2,1695.07,0.15,2881.62,2100,781.62,Debit Card
+2025-01-20,ORD-0162,Reyansh Shah,East,Patna,Home & Kitchen,Mixer Grinder,2,3369.65,0,6739.3,4500,2239.3,Net Banking
+2025-01-20,ORD-0354,Aarav Sharma,North,Delhi,Furniture,Bookshelf,2,4820.31,0,9640.62,6200,3440.62,Debit Card
+2025-01-20,ORD-0382,Ishaan Reddy,West,Ahmedabad,Furniture,Office Chair,6,6937.67,0.1,37463.42,25800,11663.42,Debit Card
+2025-01-21,ORD-0341,Aditya Rao,South,Chennai,Furniture,Office Chair,6,6987.14,0,41922.84,25800,16122.84,Net Banking
+2025-01-22,ORD-0066,Myra Kulkarni,East,Guwahati,Office Supplies,Notebook Pack,5,341.11,0.2,1364.44,750,614.44,Cash
+2025-01-22,ORD-0460,Priya Iyer,North,Lucknow,Electronics,Keyboard,2,1246.35,0.2,1994.16,1300,694.16,Debit Card
+2025-01-22,ORD-0507,Reyansh Shah,West,Ahmedabad,Office Supplies,Desk Organizer,5,549.19,0.05,2608.65,1400,1208.65,Net Banking
+2025-01-22,ORD-0591,Kabir Joshi,West,Ahmedabad,Home & Kitchen,Water Bottle,6,456.75,0.15,2329.42,1080,1249.42,UPI
+2025-01-23,ORD-0100,Meera Nair,East,Guwahati,Home & Kitchen,Cookware Set,6,2584.63,0.2,12406.22,9000,3406.22,UPI
+2025-01-23,ORD-0479,Rohan Verma,South,Hyderabad,Furniture,Bookshelf,5,5100.13,0,25500.65,15500,10000.65,UPI
+2025-01-24,ORD-0105,Kabir Joshi,East,Kolkata,Office Supplies,Pen Set,3,169.79,0.1,458.43,195,263.43,Cash
+2025-01-24,ORD-0408,Aditya Rao,East,Bhubaneswar,Home & Kitchen,Water Bottle,5,451.74,0.15,1919.89,900,1019.89,Credit Card
+2025-01-26,ORD-0342,Kabir Joshi,East,Bhubaneswar,Furniture,Office Chair,4,6558.19,0.1,23609.48,17200,6409.48,Credit Card
+2025-01-26,ORD-0390,Arjun Das,South,Hyderabad,Furniture,Bookshelf,2,4574.77,0.2,7319.63,6200,1119.63,Cash
+2025-01-27,ORD-0093,Aarav Sharma,South,Chennai,Furniture,Study Table,4,7182.39,0.2,22983.65,20400,2583.65,Net Banking
+2025-01-27,ORD-0310,Aarav Sharma,West,Ahmedabad,Furniture,Study Table,6,7434.66,0,44607.96,30600,14007.96,Credit Card
+2025-01-28,ORD-0295,Kabir Joshi,East,Kolkata,Home & Kitchen,Mixer Grinder,2,3437.48,0.1,6187.46,4500,1687.46,Cash
+2025-01-28,ORD-0402,Meera Nair,South,Hyderabad,Furniture,Study Table,4,7652.56,0.15,26018.7,20400,5618.7,Credit Card
+2025-01-28,ORD-0455,Arjun Das,South,Chennai,Electronics,Smartphone,3,17677.53,0.1,47729.33,42600,5129.33,Cash
+2025-01-28,ORD-0576,Ishaan Reddy,West,Mumbai,Electronics,Monitor,6,9747.73,0.05,55562.06,42600,12962.06,Debit Card
+2025-01-29,ORD-0143,Diya Patel,North,Jaipur,Office Supplies,Printer Paper,2,434.84,0.05,826.2,540,286.2,UPI
+2025-01-29,ORD-0352,Reyansh Shah,South,Kochi,Office Supplies,Printer Paper,2,456.66,0,913.32,540,373.32,Debit Card
+2025-01-30,ORD-0351,Vivaan Kumar,West,Ahmedabad,Furniture,Office Chair,1,6663.14,0,6663.14,4300,2363.14,Net Banking
+2025-01-31,ORD-0134,Priya Iyer,East,Kolkata,Home & Kitchen,Cookware Set,6,2541.35,0.1,13723.29,9000,4723.29,UPI
+2025-01-31,ORD-0335,Ishaan Reddy,South,Chennai,Electronics,Headphones,2,1774.96,0.15,3017.43,2100,917.43,Debit Card
+2025-02-01,ORD-0027,Kabir Joshi,East,Kolkata,Electronics,Monitor,5,8979.3,0.15,38162.03,35500,2662.03,UPI
+2025-02-01,ORD-0214,Rohan Verma,South,Hyderabad,Office Supplies,Desk Organizer,5,533.61,0.1,2401.25,1400,1001.25,Cash
+2025-02-02,ORD-0127,Sara Khan,West,Surat,Office Supplies,Notebook Pack,4,334.41,0.15,1136.99,600,536.99,UPI
+2025-02-02,ORD-0457,Diya Patel,North,Delhi,Office Supplies,Notebook Pack,3,338.88,0.2,813.31,450,363.31,Debit Card
+2025-02-03,ORD-0157,Ishaan Reddy,East,Kolkata,Home & Kitchen,Cookware Set,3,2535.0,0.2,6084.0,4500,1584.0,Net Banking
+2025-02-03,ORD-0590,Aditya Rao,South,Kochi,Home & Kitchen,Water Bottle,3,477.91,0.1,1290.36,540,750.36,Cash
+2025-02-04,ORD-0448,Arjun Das,South,Kochi,Home & Kitchen,Mixer Grinder,3,3396.3,0,10188.9,6750,3438.9,Debit Card
+2025-02-05,ORD-0097,Myra Kulkarni,East,Guwahati,Office Supplies,Pen Set,1,186.51,0.05,177.18,65,112.18,Net Banking
+2025-02-05,ORD-0314,Rohan Verma,North,Jaipur,Home & Kitchen,Cookware Set,6,2449.18,0,14695.08,9000,5695.08,Cash
+2025-02-05,ORD-0331,Isha Gupta,West,Ahmedabad,Office Supplies,Pen Set,1,178.75,0.15,151.94,65,86.94,Credit Card
+2025-02-05,ORD-0483,Myra Kulkarni,South,Kochi,Home & Kitchen,Mixer Grinder,1,3047.6,0,3047.6,2250,797.6,Net Banking
+2025-02-06,ORD-0020,Ishaan Reddy,South,Chennai,Home & Kitchen,Mixer Grinder,5,3314.36,0,16571.8,11250,5321.8,Net Banking
+2025-02-06,ORD-0145,Sara Khan,West,Mumbai,Home & Kitchen,Mixer Grinder,4,3385.4,0,13541.6,9000,4541.6,Cash
+2025-02-06,ORD-0520,Priya Iyer,North,Jaipur,Office Supplies,Printer Paper,3,461.02,0.05,1313.91,810,503.91,Debit Card
+2025-02-07,ORD-0031,Rohan Verma,South,Chennai,Furniture,Study Table,1,7049.7,0,7049.7,5100,1949.7,Cash
+2025-02-07,ORD-0206,Reyansh Shah,West,Surat,Office Supplies,Notebook Pack,2,344.06,0,688.12,300,388.12,Debit Card
+2025-02-07,ORD-0280,Aarav Sharma,West,Surat,Home & Kitchen,Water Bottle,5,444.12,0.2,1776.48,900,876.48,Debit Card
+2025-02-08,ORD-0083,Aarav Sharma,South,Bengaluru,Home & Kitchen,Cookware Set,6,2388.45,0.15,12181.09,9000,3181.09,Credit Card
+2025-02-08,ORD-0305,Aarav Sharma,North,Lucknow,Office Supplies,Pen Set,4,175.03,0.1,630.11,260,370.11,UPI
+2025-02-08,ORD-0468,Kabir Joshi,North,Delhi,Home & Kitchen,Water Bottle,2,453.71,0,907.42,360,547.42,Net Banking
+2025-02-09,ORD-0153,Meera Nair,North,Lucknow,Home & Kitchen,Water Bottle,5,478.5,0.2,1914.0,900,1014.0,Net Banking
+2025-02-09,ORD-0264,Isha Gupta,East,Patna,Furniture,Bookshelf,4,5104.53,0.2,16334.5,12400,3934.5,Cash
+2025-02-09,ORD-0562,Ishaan Reddy,East,Guwahati,Furniture,Study Table,6,7287.82,0.2,34981.54,30600,4381.54,UPI
+2025-02-10,ORD-0016,Kabir Joshi,North,Lucknow,Electronics,Smartphone,2,17928.81,0.2,28686.1,28400,286.1,Credit Card
+2025-02-12,ORD-0181,Diya Patel,West,Mumbai,Home & Kitchen,Water Bottle,2,435.15,0.15,739.75,360,379.75,UPI
+2025-02-13,ORD-0155,Sara Khan,South,Bengaluru,Furniture,Bookshelf,4,4818.48,0.1,17346.53,12400,4946.53,Credit Card
+2025-02-13,ORD-0481,Sara Khan,South,Kochi,Home & Kitchen,Cookware Set,2,2526.86,0,5053.72,3000,2053.72,Credit Card
+2025-02-14,ORD-0002,Aarav Sharma,West,Mumbai,Electronics,Headphones,2,1801.54,0,3603.08,2100,1503.08,Net Banking
+2025-02-14,ORD-0069,Isha Gupta,East,Guwahati,Furniture,Study Table,5,7393.75,0.15,31423.44,25500,5923.44,UPI
+2025-02-14,ORD-0378,Aarav Sharma,West,Surat,Office Supplies,Pen Set,5,192.01,0.1,864.04,325,539.04,Net Banking
+2025-02-16,ORD-0088,Meera Nair,South,Bengaluru,Office Supplies,Notebook Pack,2,351.06,0.1,631.91,300,331.91,Debit Card
+2025-02-16,ORD-0113,Ishaan Reddy,East,Bhubaneswar,Home & Kitchen,Mixer Grinder,2,3346.69,0,6693.38,4500,2193.38,Debit Card
+2025-02-16,ORD-0123,Ananya Singh,South,Bengaluru,Electronics,Keyboard,2,1255.1,0,2510.2,1300,1210.2,UPI
+2025-02-16,ORD-0133,Rohan Verma,North,Delhi,Home & Kitchen,Mixer Grinder,6,3134.8,0.2,15047.04,13500,1547.04,Net Banking
+2025-02-16,ORD-0139,Priya Iyer,South,Kochi,Home & Kitchen,Cookware Set,3,2350.1,0,7050.3,4500,2550.3,Debit Card
+2025-02-16,ORD-0233,Aarav Sharma,West,Mumbai,Home & Kitchen,Mixer Grinder,5,3177.88,0.1,14300.46,11250,3050.46,Net Banking
+2025-02-16,ORD-0535,Reyansh Shah,South,Bengaluru,Home & Kitchen,Mixer Grinder,3,3103.53,0.1,8379.53,6750,1629.53,Cash
+2025-02-16,ORD-0595,Rohan Verma,North,Jaipur,Furniture,Study Table,4,7143.42,0.05,27145.0,20400,6745.0,Cash
+2025-02-17,ORD-0160,Isha Gupta,West,Ahmedabad,Electronics,Keyboard,3,1286.62,0,3859.86,1950,1909.86,Cash
+2025-02-17,ORD-0247,Myra Kulkarni,South,Bengaluru,Office Supplies,Desk Organizer,6,559.06,0.15,2851.21,1680,1171.21,UPI
+2025-02-18,ORD-0132,Meera Nair,East,Guwahati,Office Supplies,Pen Set,3,185.38,0,556.14,195,361.14,UPI
+2025-02-18,ORD-0343,Ananya Singh,West,Mumbai,Furniture,Office Chair,1,6843.59,0,6843.59,4300,2543.59,Credit Card
+2025-02-21,ORD-0220,Kabir Joshi,West,Ahmedabad,Home & Kitchen,Mixer Grinder,6,2946.65,0,17679.9,13500,4179.9,Credit Card
+2025-02-21,ORD-0367,Priya Iyer,East,Patna,Furniture,Study Table,6,7455.79,0.15,38024.53,30600,7424.53,Net Banking
+2025-02-21,ORD-0513,Priya Iyer,East,Patna,Home & Kitchen,Cookware Set,2,2515.21,0,5030.42,3000,2030.42,Credit Card
+2025-02-21,ORD-0554,Arjun Das,South,Kochi,Furniture,Office Chair,5,6238.71,0.2,24954.84,21500,3454.84,Credit Card
+2025-02-22,ORD-0078,Aarav Sharma,North,Chandigarh,Home & Kitchen,Cookware Set,4,2278.8,0.05,8659.44,6000,2659.44,Debit Card
+2025-02-22,ORD-0313,Arjun Das,East,Bhubaneswar,Office Supplies,Printer Paper,4,460.19,0,1840.76,1080,760.76,Credit Card
+2025-02-22,ORD-0474,Arjun Das,East,Bhubaneswar,Furniture,Study Table,6,7044.82,0.1,38042.03,30600,7442.03,UPI
+2025-02-23,ORD-0422,Sara Khan,West,Surat,Home & Kitchen,Mixer Grinder,5,3342.93,0.1,15043.18,11250,3793.18,UPI
+2025-02-24,ORD-0380,Sara Khan,North,Chandigarh,Office Supplies,Desk Organizer,3,563.62,0.1,1521.77,840,681.77,Net Banking
+2025-02-24,ORD-0432,Reyansh Shah,East,Patna,Furniture,Office Chair,4,6455.33,0,25821.32,17200,8621.32,Credit Card
+2025-02-25,ORD-0362,Ishaan Reddy,North,Delhi,Home & Kitchen,Cookware Set,6,2580.14,0.1,13932.76,9000,4932.76,Cash
+2025-02-25,ORD-0577,Diya Patel,North,Chandigarh,Home & Kitchen,Mixer Grinder,4,3444.03,0.15,11709.7,9000,2709.7,Debit Card
+2025-02-26,ORD-0012,Meera Nair,South,Hyderabad,Home & Kitchen,Water Bottle,1,441.48,0.1,397.33,180,217.33,Net Banking
+2025-02-26,ORD-0356,Isha Gupta,East,Kolkata,Office Supplies,Desk Organizer,5,535.62,0,2678.1,1400,1278.1,Credit Card
+2025-02-27,ORD-0036,Rohan Verma,North,Jaipur,Electronics,Keyboard,5,1132.43,0.15,4812.83,3250,1562.83,UPI
+2025-02-27,ORD-0541,Aditya Rao,South,Kochi,Office Supplies,Notebook Pack,2,354.74,0.05,674.01,300,374.01,Credit Card
+2025-02-28,ORD-0187,Reyansh Shah,North,Jaipur,Home & Kitchen,Water Bottle,4,422.48,0.15,1436.43,720,716.43,Debit Card
+2025-02-28,ORD-0414,Ananya Singh,North,Lucknow,Furniture,Bookshelf,2,5054.59,0.05,9603.72,6200,3403.72,Debit Card
+2025-02-28,ORD-0450,Aarav Sharma,East,Guwahati,Furniture,Bookshelf,5,4603.26,0.15,19563.86,15500,4063.86,Debit Card
+2025-03-01,ORD-0324,Priya Iyer,West,Mumbai,Office Supplies,Printer Paper,1,464.97,0,464.97,270,194.97,UPI
+2025-03-01,ORD-0371,Kabir Joshi,East,Guwahati,Home & Kitchen,Cookware Set,6,2243.0,0.05,12785.1,9000,3785.1,Cash
+2025-03-02,ORD-0326,Sara Khan,North,Chandigarh,Home & Kitchen,Cookware Set,5,2308.97,0,11544.85,7500,4044.85,UPI
+2025-03-02,ORD-0428,Aarav Sharma,West,Mumbai,Electronics,Monitor,4,9586.84,0,38347.36,28400,9947.36,UPI
+2025-03-02,ORD-0489,Rohan Verma,North,Lucknow,Furniture,Bookshelf,3,4694.22,0.1,12674.39,9300,3374.39,Cash
+2025-03-03,ORD-0312,Reyansh Shah,West,Pune,Home & Kitchen,Mixer Grinder,2,2989.74,0.1,5381.53,4500,881.53,UPI
+2025-03-03,ORD-0445,Sara Khan,West,Mumbai,Home & Kitchen,Cookware Set,5,2257.95,0.05,10725.26,7500,3225.26,Debit Card
+2025-03-05,ORD-0412,Vivaan Kumar,East,Guwahati,Furniture,Office Chair,6,6635.52,0.2,31850.5,25800,6050.5,Cash
+2025-03-05,ORD-0597,Aditya Rao,North,Delhi,Home & Kitchen,Water Bottle,3,451.71,0,1355.13,540,815.13,Net Banking
+2025-03-06,ORD-0077,Reyansh Shah,East,Kolkata,Electronics,Keyboard,6,1226.47,0,7358.82,3900,3458.82,Cash
+2025-03-06,ORD-0101,Rohan Verma,East,Kolkata,Home & Kitchen,Mixer Grinder,5,2951.86,0.1,13283.37,11250,2033.37,Cash
+2025-03-07,ORD-0345,Sara Khan,North,Chandigarh,Electronics,Headphones,4,1704.38,0,6817.52,4200,2617.52,Cash
+2025-03-08,ORD-0125,Reyansh Shah,East,Patna,Electronics,Headphones,2,1759.17,0,3518.34,2100,1418.34,Credit Card
+2025-03-08,ORD-0405,Kabir Joshi,West,Surat,Home & Kitchen,Cookware Set,4,2209.79,0.1,7955.24,6000,1955.24,Credit Card
+2025-03-10,ORD-0052,Ishaan Reddy,West,Ahmedabad,Home & Kitchen,Water Bottle,6,444.73,0.15,2268.12,1080,1188.12,Net Banking
+2025-03-10,ORD-0237,Ananya Singh,East,Kolkata,Furniture,Bookshelf,4,4513.8,0.15,15346.92,12400,2946.92,UPI
+2025-03-10,ORD-0246,Meera Nair,West,Pune,Office Supplies,Printer Paper,3,419.69,0.2,1007.26,810,197.26,Debit Card
+2025-03-10,ORD-0384,Diya Patel,East,Guwahati,Office Supplies,Pen Set,6,183.02,0.1,988.31,390,598.31,Credit Card
+2025-03-10,ORD-0588,Ananya Singh,West,Ahmedabad,Furniture,Study Table,4,6782.41,0.1,24416.68,20400,4016.68,Credit Card
+2025-03-11,ORD-0060,Isha Gupta,West,Pune,Electronics,Keyboard,4,1144.64,0.05,4349.63,2600,1749.63,Debit Card
+2025-03-11,ORD-0303,Priya Iyer,West,Mumbai,Office Supplies,Printer Paper,6,431.98,0,2591.88,1620,971.88,Debit Card
+2025-03-11,ORD-0568,Sara Khan,West,Pune,Home & Kitchen,Cookware Set,6,2283.3,0.15,11644.83,9000,2644.83,Net Banking
+2025-03-12,ORD-0208,Ishaan Reddy,East,Guwahati,Home & Kitchen,Mixer Grinder,5,3015.57,0.15,12816.17,11250,1566.17,Net Banking
+2025-03-12,ORD-0219,Ananya Singh,North,Jaipur,Furniture,Office Chair,6,6214.7,0.15,31694.97,25800,5894.97,UPI
+2025-03-12,ORD-0584,Isha Gupta,East,Patna,Home & Kitchen,Mixer Grinder,6,3413.56,0.15,17409.16,13500,3909.16,UPI
+2025-03-13,ORD-0265,Isha Gupta,North,Chandigarh,Electronics,Headphones,4,1897.54,0,7590.16,4200,3390.16,Net Banking
+2025-03-14,ORD-0201,Myra Kulkarni,North,Delhi,Office Supplies,Desk Organizer,5,527.85,0.1,2375.33,1400,975.33,Credit Card
+2025-03-15,ORD-0173,Arjun Das,East,Guwahati,Electronics,Keyboard,2,1183.98,0.15,2012.77,1300,712.77,UPI
+2025-03-17,ORD-0049,Ishaan Reddy,North,Delhi,Furniture,Study Table,5,7148.64,0,35743.2,25500,10243.2,Net Banking
+2025-03-18,ORD-0080,Reyansh Shah,East,Kolkata,Furniture,Office Chair,5,6610.57,0.1,29747.56,21500,8247.56,Net Banking
+2025-03-18,ORD-0158,Aditya Rao,East,Kolkata,Furniture,Study Table,3,7428.65,0.2,17828.76,15300,2528.76,Credit Card
+2025-03-18,ORD-0329,Priya Iyer,South,Bengaluru,Home & Kitchen,Mixer Grinder,3,3157.12,0,9471.36,6750,2721.36,Debit Card
+2025-03-18,ORD-0425,Diya Patel,North,Delhi,Furniture,Bookshelf,4,5083.71,0.1,18301.36,12400,5901.36,Cash
+2025-03-18,ORD-0477,Isha Gupta,South,Hyderabad,Office Supplies,Notebook Pack,6,345.22,0,2071.32,900,1171.32,UPI
+2025-03-20,ORD-0230,Reyansh Shah,West,Ahmedabad,Home & Kitchen,Water Bottle,5,468.53,0.1,2108.38,900,1208.38,Credit Card
+2025-03-20,ORD-0322,Rohan Verma,East,Kolkata,Office Supplies,Notebook Pack,5,376.56,0,1882.8,750,1132.8,Net Banking
+2025-03-20,ORD-0369,Arjun Das,North,Chandigarh,Electronics,Monitor,1,9992.32,0.05,9492.7,7100,2392.7,Net Banking
+2025-03-21,ORD-0033,Myra Kulkarni,East,Bhubaneswar,Furniture,Bookshelf,3,4944.0,0,14832.0,9300,5532.0,Debit Card
+2025-03-21,ORD-0339,Isha Gupta,North,Jaipur,Home & Kitchen,Cookware Set,3,2254.36,0.1,6086.77,4500,1586.77,Credit Card
+2025-03-22,ORD-0190,Meera Nair,South,Chennai,Furniture,Office Chair,2,6226.21,0,12452.42,8600,3852.42,UPI
+2025-03-22,ORD-0357,Ishaan Reddy,West,Surat,Office Supplies,Printer Paper,6,463.94,0.15,2366.09,1620,746.09,Net Banking
+2025-03-22,ORD-0497,Ananya Singh,North,Chandigarh,Home & Kitchen,Cookware Set,6,2363.69,0.1,12763.93,9000,3763.93,Net Banking
+2025-03-24,ORD-0090,Kabir Joshi,East,Guwahati,Home & Kitchen,Cookware Set,6,2520.41,0.1,13610.21,9000,4610.21,UPI
+2025-03-25,ORD-0064,Aditya Rao,East,Kolkata,Electronics,Keyboard,5,1278.34,0.2,5113.36,3250,1863.36,Cash
+2025-03-25,ORD-0325,Myra Kulkarni,West,Ahmedabad,Office Supplies,Printer Paper,3,467.98,0,1403.94,810,593.94,Debit Card
+2025-03-25,ORD-0364,Diya Patel,West,Mumbai,Electronics,Keyboard,1,1154.14,0.05,1096.43,650,446.43,UPI
+2025-03-25,ORD-0599,Meera Nair,South,Hyderabad,Electronics,Monitor,3,9849.85,0.05,28072.07,21300,6772.07,Debit Card
+2025-03-26,ORD-0059,Diya Patel,West,Pune,Electronics,Monitor,5,9747.76,0.15,41427.98,35500,5927.98,Cash
+2025-03-26,ORD-0163,Meera Nair,West,Mumbai,Home & Kitchen,Cookware Set,6,2299.21,0.2,11036.21,9000,2036.21,Net Banking
+2025-03-27,ORD-0273,Ananya Singh,West,Ahmedabad,Home & Kitchen,Cookware Set,4,2346.67,0,9386.68,6000,3386.68,Cash
+2025-03-27,ORD-0453,Aditya Rao,North,Delhi,Furniture,Bookshelf,6,5080.28,0,30481.68,18600,11881.68,UPI
+2025-03-27,ORD-0480,Priya Iyer,East,Patna,Home & Kitchen,Water Bottle,5,415.34,0.2,1661.36,900,761.36,Debit Card
+2025-03-27,ORD-0522,Priya Iyer,South,Bengaluru,Furniture,Bookshelf,2,4609.26,0.2,7374.82,6200,1174.82,UPI
+2025-03-28,ORD-0254,Myra Kulkarni,South,Kochi,Furniture,Bookshelf,6,4818.39,0,28910.34,18600,10310.34,UPI
+2025-03-30,ORD-0189,Vivaan Kumar,West,Mumbai,Office Supplies,Pen Set,6,181.44,0,1088.64,390,698.64,Debit Card
+2025-03-30,ORD-0292,Rohan Verma,East,Kolkata,Furniture,Study Table,1,6975.8,0,6975.8,5100,1875.8,Debit Card
+2025-03-31,ORD-0418,Myra Kulkarni,North,Chandigarh,Office Supplies,Pen Set,4,168.94,0.2,540.61,260,280.61,UPI
+2025-03-31,ORD-0518,Aditya Rao,East,Bhubaneswar,Office Supplies,Desk Organizer,6,584.29,0.1,3155.17,1680,1475.17,Net Banking
+2025-04-01,ORD-0527,Diya Patel,West,Surat,Office Supplies,Pen Set,4,172.14,0.15,585.28,260,325.28,Cash
+2025-04-02,ORD-0258,Myra Kulkarni,North,Delhi,Furniture,Office Chair,2,6527.51,0.15,11096.77,8600,2496.77,Debit Card
+2025-04-03,ORD-0089,Arjun Das,West,Surat,Electronics,Monitor,3,9246.63,0.1,24965.9,21300,3665.9,UPI
+2025-04-03,ORD-0462,Ananya Singh,North,Lucknow,Electronics,Keyboard,6,1152.13,0,6912.78,3900,3012.78,Net Banking
+2025-04-03,ORD-0556,Ishaan Reddy,West,Ahmedabad,Furniture,Bookshelf,5,5132.94,0.1,23098.23,15500,7598.23,Debit Card
+2025-04-04,ORD-0399,Aditya Rao,East,Kolkata,Furniture,Study Table,2,7627.89,0.2,12204.62,10200,2004.62,Debit Card
+2025-04-05,ORD-0372,Meera Nair,East,Guwahati,Office Supplies,Printer Paper,4,432.96,0,1731.84,1080,651.84,Debit Card
+2025-04-06,ORD-0028,Sara Khan,North,Delhi,Furniture,Study Table,1,6907.64,0.15,5871.49,5100,771.49,UPI
+2025-04-06,ORD-0223,Isha Gupta,East,Kolkata,Electronics,Keyboard,5,1124.6,0.15,4779.55,3250,1529.55,Debit Card
+2025-04-06,ORD-0546,Kabir Joshi,East,Bhubaneswar,Home & Kitchen,Cookware Set,5,2269.57,0.15,9645.67,7500,2145.67,Credit Card
+2025-04-07,ORD-0248,Ananya Singh,South,Kochi,Furniture,Study Table,3,6868.0,0,20604.0,15300,5304.0,UPI
+2025-04-09,ORD-0161,Kabir Joshi,South,Hyderabad,Furniture,Office Chair,3,6508.0,0,19524.0,12900,6624.0,Net Banking
+2025-04-10,ORD-0050,Ishaan Reddy,West,Surat,Home & Kitchen,Mixer Grinder,2,3296.06,0.2,5273.7,4500,773.7,UPI
+2025-04-10,ORD-0464,Sara Khan,East,Guwahati,Home & Kitchen,Cookware Set,5,2325.38,0.2,9301.52,7500,1801.52,Credit Card
+2025-04-12,ORD-0003,Rohan Verma,West,Pune,Home & Kitchen,Water Bottle,3,468.63,0,1405.89,540,865.89,Cash
+2025-04-12,ORD-0065,Reyansh Shah,North,Jaipur,Electronics,Keyboard,6,1258.66,0.15,6419.17,3900,2519.17,Net Banking
+2025-04-12,ORD-0289,Reyansh Shah,West,Surat,Home & Kitchen,Mixer Grinder,6,3049.36,0,18296.16,13500,4796.16,UPI
+2025-04-12,ORD-0344,Ananya Singh,West,Ahmedabad,Electronics,Keyboard,1,1295.45,0,1295.45,650,645.45,Cash
+2025-04-13,ORD-0178,Reyansh Shah,North,Chandigarh,Office Supplies,Desk Organizer,5,528.29,0.1,2377.3,1400,977.3,Credit Card
+2025-04-13,ORD-0440,Vivaan Kumar,East,Patna,Office Supplies,Pen Set,2,185.49,0,370.98,130,240.98,Credit Card
+2025-04-13,ORD-0572,Sara Khan,East,Patna,Electronics,Headphones,6,1726.0,0,10356.0,6300,4056.0,Credit Card
+2025-04-14,ORD-0232,Sara Khan,South,Hyderabad,Office Supplies,Desk Organizer,1,524.08,0.2,419.26,280,139.26,Cash
+2025-04-15,ORD-0491,Vivaan Kumar,West,Surat,Furniture,Study Table,5,7181.29,0.15,30520.48,25500,5020.48,Net Banking
+2025-04-16,ORD-0454,Diya Patel,West,Mumbai,Furniture,Office Chair,4,6324.98,0.2,20239.94,17200,3039.94,UPI
+2025-04-17,ORD-0552,Ishaan Reddy,West,Mumbai,Home & Kitchen,Water Bottle,1,454.18,0.05,431.47,180,251.47,Cash
+2025-04-18,ORD-0523,Aarav Sharma,South,Kochi,Electronics,Headphones,1,1813.95,0.1,1632.56,1050,582.56,Cash
+2025-04-19,ORD-0410,Aditya Rao,North,Jaipur,Electronics,Keyboard,6,1256.09,0.2,6029.23,3900,2129.23,Debit Card
+2025-04-19,ORD-0461,Ananya Singh,West,Pune,Furniture,Office Chair,2,6848.14,0.15,11641.84,8600,3041.84,UPI
+2025-04-19,ORD-0574,Arjun Das,South,Chennai,Home & Kitchen,Water Bottle,6,464.05,0,2784.3,1080,1704.3,UPI
+2025-04-22,ORD-0241,Sara Khan,North,Jaipur,Office Supplies,Printer Paper,6,436.96,0.15,2228.5,1620,608.5,Debit Card
+2025-04-22,ORD-0256,Kabir Joshi,West,Ahmedabad,Electronics,Monitor,6,8763.91,0.1,47325.11,42600,4725.11,Net Banking
+2025-04-22,ORD-0299,Myra Kulkarni,West,Mumbai,Furniture,Study Table,1,6926.76,0.1,6234.08,5100,1134.08,UPI
+2025-04-23,ORD-0009,Ananya Singh,East,Kolkata,Furniture,Office Chair,3,6258.45,0.1,16897.81,12900,3997.81,Net Banking
+2025-04-24,ORD-0040,Ananya Singh,South,Kochi,Office Supplies,Pen Set,2,166.28,0,332.56,130,202.56,Cash
+2025-04-25,ORD-0062,Ananya Singh,North,Delhi,Electronics,Smartphone,2,18349.45,0,36698.9,28400,8298.9,Credit Card
+2025-04-26,ORD-0081,Sara Khan,West,Surat,Home & Kitchen,Cookware Set,5,2325.27,0.1,10463.72,7500,2963.72,UPI
+2025-04-26,ORD-0245,Kabir Joshi,East,Patna,Home & Kitchen,Mixer Grinder,5,3439.51,0.1,15477.8,11250,4227.8,Net Banking
+2025-04-26,ORD-0373,Isha Gupta,East,Kolkata,Furniture,Bookshelf,6,4481.82,0,26890.92,18600,8290.92,Net Banking
+2025-04-27,ORD-0104,Ishaan Reddy,North,Lucknow,Electronics,Headphones,4,1855.87,0,7423.48,4200,3223.48,UPI
+2025-04-28,ORD-0525,Rohan Verma,South,Chennai,Home & Kitchen,Water Bottle,2,451.93,0,903.86,360,543.86,UPI
+2025-04-30,ORD-0544,Isha Gupta,East,Bhubaneswar,Home & Kitchen,Water Bottle,2,463.63,0,927.26,360,567.26,Credit Card
+2025-05-01,ORD-0427,Meera Nair,North,Lucknow,Home & Kitchen,Water Bottle,4,475.67,0,1902.68,720,1182.68,Debit Card
+2025-05-02,ORD-0242,Sara Khan,East,Patna,Furniture,Study Table,3,6694.22,0.05,19078.53,15300,3778.53,Credit Card
+2025-05-03,ORD-0094,Ishaan Reddy,South,Chennai,Electronics,Monitor,1,10248.23,0,10248.23,7100,3148.23,UPI
+2025-05-06,ORD-0198,Aditya Rao,West,Ahmedabad,Home & Kitchen,Mixer Grinder,6,3024.94,0,18149.64,13500,4649.64,Cash
+2025-05-07,ORD-0231,Kabir Joshi,North,Lucknow,Office Supplies,Notebook Pack,5,325.46,0,1627.3,750,877.3,Net Banking
+2025-05-07,ORD-0304,Aditya Rao,West,Surat,Furniture,Bookshelf,6,4898.16,0.05,27919.51,18600,9319.51,Cash
+2025-05-07,ORD-0569,Diya Patel,South,Bengaluru,Office Supplies,Desk Organizer,3,587.32,0.2,1409.57,840,569.57,UPI
+2025-05-07,ORD-0579,Arjun Das,East,Bhubaneswar,Home & Kitchen,Cookware Set,6,2215.05,0,13290.3,9000,4290.3,Debit Card
+2025-05-08,ORD-0023,Ananya Singh,South,Hyderabad,Home & Kitchen,Mixer Grinder,4,3086.62,0,12346.48,9000,3346.48,UPI
+2025-05-08,ORD-0349,Sara Khan,North,Lucknow,Office Supplies,Desk Organizer,5,536.28,0.1,2413.26,1400,1013.26,Net Banking
+2025-05-08,ORD-0503,Ishaan Reddy,East,Kolkata,Home & Kitchen,Water Bottle,6,419.47,0.05,2390.98,1080,1310.98,Credit Card
+2025-05-09,ORD-0013,Meera Nair,North,Delhi,Office Supplies,Pen Set,1,178.12,0.05,169.21,65,104.21,UPI
+2025-05-09,ORD-0195,Kabir Joshi,South,Chennai,Furniture,Bookshelf,3,4825.71,0.15,12305.56,9300,3005.56,Credit Card
+2025-05-09,ORD-0545,Ananya Singh,North,Lucknow,Home & Kitchen,Water Bottle,3,464.19,0.15,1183.68,540,643.68,Net Banking
+2025-05-10,ORD-0392,Meera Nair,East,Bhubaneswar,Home & Kitchen,Cookware Set,3,2304.77,0.1,6222.88,4500,1722.88,Debit Card
+2025-05-15,ORD-0014,Kabir Joshi,South,Bengaluru,Office Supplies,Printer Paper,2,468.9,0.05,890.91,540,350.91,Net Banking
+2025-05-15,ORD-0511,Aditya Rao,South,Chennai,Home & Kitchen,Water Bottle,3,427.24,0.05,1217.63,540,677.63,Credit Card
+2025-05-16,ORD-0017,Arjun Das,West,Pune,Furniture,Bookshelf,3,5180.27,0.1,13986.73,9300,4686.73,Debit Card
+2025-05-16,ORD-0197,Vivaan Kumar,South,Kochi,Electronics,Monitor,6,9180.3,0.15,46819.53,42600,4219.53,Cash
+2025-05-16,ORD-0368,Myra Kulkarni,East,Bhubaneswar,Furniture,Office Chair,1,6574.64,0.1,5917.18,4300,1617.18,Cash
+2025-05-17,ORD-0259,Priya Iyer,West,Mumbai,Office Supplies,Desk Organizer,4,527.4,0.15,1793.16,1120,673.16,Credit Card
+2025-05-19,ORD-0074,Priya Iyer,East,Bhubaneswar,Furniture,Office Chair,6,6308.17,0,37849.02,25800,12049.02,Net Banking
+2025-05-19,ORD-0330,Aarav Sharma,North,Chandigarh,Electronics,Headphones,2,1887.65,0,3775.3,2100,1675.3,Cash
+2025-05-21,ORD-0347,Arjun Das,East,Guwahati,Furniture,Office Chair,5,6621.66,0.15,28142.06,21500,6642.06,Debit Card
+2025-05-22,ORD-0239,Diya Patel,South,Bengaluru,Electronics,Monitor,5,9105.81,0,45529.05,35500,10029.05,UPI
+2025-05-22,ORD-0466,Vivaan Kumar,East,Patna,Office Supplies,Desk Organizer,4,537.57,0.1,1935.25,1120,815.25,Cash
+2025-05-24,ORD-0508,Kabir Joshi,West,Pune,Furniture,Office Chair,5,6477.45,0.1,29148.53,21500,7648.53,UPI
+2025-05-26,ORD-0164,Sara Khan,West,Pune,Furniture,Study Table,4,7047.75,0,28191.0,20400,7791.0,Cash
+2025-05-26,ORD-0559,Isha Gupta,North,Jaipur,Office Supplies,Notebook Pack,3,334.03,0,1002.09,450,552.09,UPI
+2025-05-27,ORD-0026,Sara Khan,West,Surat,Furniture,Office Chair,3,6987.46,0,20962.38,12900,8062.38,Net Banking
+2025-05-27,ORD-0179,Aditya Rao,East,Kolkata,Office Supplies,Pen Set,1,178.18,0.05,169.27,65,104.27,Cash
+2025-05-27,ORD-0496,Ananya Singh,South,Bengaluru,Furniture,Bookshelf,2,4443.69,0.2,7109.9,6200,909.9,UPI
+2025-05-27,ORD-0519,Sara Khan,West,Pune,Furniture,Bookshelf,3,4900.82,0.1,13232.21,9300,3932.21,Cash
+2025-05-28,ORD-0084,Reyansh Shah,East,Guwahati,Electronics,Smartphone,3,18258.59,0.2,43820.62,42600,1220.62,Credit Card
+2025-05-28,ORD-0108,Aditya Rao,South,Bengaluru,Home & Kitchen,Cookware Set,5,2453.35,0.05,11653.41,7500,4153.41,Debit Card
+2025-05-28,ORD-0135,Myra Kulkarni,East,Bhubaneswar,Electronics,Smartphone,2,17948.71,0.2,28717.94,28400,317.94,UPI
+2025-05-28,ORD-0217,Priya Iyer,North,Lucknow,Home & Kitchen,Cookware Set,2,2224.15,0.05,4225.89,3000,1225.89,UPI
+2025-05-28,ORD-0573,Ananya Singh,North,Chandigarh,Electronics,Keyboard,4,1108.37,0.1,3990.13,2600,1390.13,Net Banking
+2025-05-30,ORD-0297,Sara Khan,North,Chandigarh,Furniture,Bookshelf,3,5015.61,0,15046.83,9300,5746.83,Cash
+2025-05-30,ORD-0332,Reyansh Shah,East,Patna,Home & Kitchen,Cookware Set,5,2591.15,0.1,11660.18,7500,4160.18,Credit Card
+2025-06-01,ORD-0110,Reyansh Shah,East,Kolkata,Home & Kitchen,Cookware Set,1,2540.19,0.15,2159.16,1500,659.16,UPI
+2025-06-01,ORD-0318,Sara Khan,North,Jaipur,Home & Kitchen,Cookware Set,1,2399.84,0,2399.84,1500,899.84,UPI
+2025-06-02,ORD-0216,Ishaan Reddy,East,Patna,Home & Kitchen,Cookware Set,4,2423.23,0.05,9208.27,6000,3208.27,Debit Card
+2025-06-03,ORD-0045,Ananya Singh,East,Guwahati,Office Supplies,Desk Organizer,6,554.79,0.05,3162.3,1680,1482.3,Cash
+2025-06-03,ORD-0210,Sara Khan,West,Mumbai,Office Supplies,Pen Set,6,193.82,0,1162.92,390,772.92,Debit Card
+2025-06-03,ORD-0260,Aarav Sharma,North,Delhi,Electronics,Monitor,4,9580.11,0.1,34488.4,28400,6088.4,UPI
+2025-06-05,ORD-0194,Myra Kulkarni,South,Hyderabad,Office Supplies,Printer Paper,3,478.43,0.15,1220.0,810,410.0,UPI
+2025-06-06,ORD-0073,Priya Iyer,East,Guwahati,Office Supplies,Desk Organizer,6,535.11,0.15,2729.06,1680,1049.06,Cash
+2025-06-06,ORD-0571,Myra Kulkarni,South,Chennai,Home & Kitchen,Water Bottle,2,417.23,0.1,751.01,360,391.01,Credit Card
+2025-06-07,ORD-0037,Isha Gupta,East,Kolkata,Office Supplies,Printer Paper,6,462.02,0,2772.12,1620,1152.12,Net Banking
+2025-06-07,ORD-0528,Myra Kulkarni,East,Guwahati,Office Supplies,Printer Paper,3,414.01,0,1242.03,810,432.03,Credit Card
+2025-06-09,ORD-0386,Ananya Singh,West,Pune,Electronics,Smartphone,2,18970.49,0,37940.98,28400,9540.98,UPI
+2025-06-10,ORD-0213,Sara Khan,West,Pune,Home & Kitchen,Water Bottle,2,450.13,0.1,810.23,360,450.23,Cash
+2025-06-11,ORD-0010,Ananya Singh,South,Kochi,Home & Kitchen,Water Bottle,4,433.07,0,1732.28,720,1012.28,Net Banking
+2025-06-11,ORD-0403,Aarav Sharma,South,Bengaluru,Home & Kitchen,Cookware Set,6,2328.35,0,13970.1,9000,4970.1,UPI
+2025-06-12,ORD-0338,Sara Khan,West,Ahmedabad,Furniture,Office Chair,2,6791.13,0,13582.26,8600,4982.26,UPI
+2025-06-13,ORD-0209,Priya Iyer,South,Kochi,Office Supplies,Pen Set,5,180.93,0.15,768.95,325,443.95,Net Banking
+2025-06-13,ORD-0251,Priya Iyer,South,Chennai,Office Supplies,Desk Organizer,1,582.04,0.15,494.73,280,214.73,Credit Card
+2025-06-14,ORD-0350,Ishaan Reddy,West,Ahmedabad,Furniture,Office Chair,3,6207.78,0.15,15829.84,12900,2929.84,Debit Card
+2025-06-14,ORD-0426,Aditya Rao,South,Chennai,Office Supplies,Notebook Pack,5,352.83,0,1764.15,750,1014.15,Cash
+2025-06-15,ORD-0227,Isha Gupta,South,Bengaluru,Office Supplies,Desk Organizer,2,572.33,0.1,1030.19,560,470.19,Debit Card
+2025-06-17,ORD-0182,Meera Nair,East,Bhubaneswar,Home & Kitchen,Water Bottle,6,426.0,0.1,2300.4,1080,1220.4,Debit Card
+2025-06-17,ORD-0202,Vivaan Kumar,East,Patna,Furniture,Study Table,5,7198.57,0.1,32393.56,25500,6893.56,Cash
+2025-06-17,ORD-0323,Diya Patel,West,Mumbai,Office Supplies,Desk Organizer,6,511.1,0,3066.6,1680,1386.6,Cash
+2025-06-18,ORD-0041,Myra Kulkarni,East,Kolkata,Office Supplies,Pen Set,6,177.11,0.15,903.26,390,513.26,Net Banking
+2025-06-18,ORD-0103,Arjun Das,West,Ahmedabad,Home & Kitchen,Water Bottle,1,418.93,0.15,356.09,180,176.09,Debit Card
+2025-06-18,ORD-0583,Reyansh Shah,West,Pune,Furniture,Bookshelf,2,4831.76,0.15,8213.99,6200,2013.99,Credit Card
+2025-06-19,ORD-0042,Sara Khan,North,Delhi,Office Supplies,Printer Paper,5,416.75,0.05,1979.56,1350,629.56,Cash
+2025-06-19,ORD-0416,Rohan Verma,South,Bengaluru,Electronics,Headphones,1,1848.68,0.15,1571.38,1050,521.38,UPI
+2025-06-19,ORD-0430,Isha Gupta,West,Ahmedabad,Home & Kitchen,Mixer Grinder,1,3057.53,0.2,2446.02,2250,196.02,Debit Card
+2025-06-19,ORD-0449,Myra Kulkarni,East,Bhubaneswar,Furniture,Bookshelf,5,5181.41,0.1,23316.35,15500,7816.35,UPI
+2025-06-20,ORD-0035,Kabir Joshi,South,Chennai,Furniture,Bookshelf,4,4957.95,0.15,16857.03,12400,4457.03,UPI
+2025-06-20,ORD-0176,Arjun Das,South,Bengaluru,Office Supplies,Pen Set,6,189.52,0,1137.12,390,747.12,Cash
+2025-06-21,ORD-0334,Aditya Rao,North,Lucknow,Office Supplies,Notebook Pack,2,377.05,0.15,640.99,300,340.99,Cash
+2025-06-22,ORD-0307,Myra Kulkarni,South,Kochi,Office Supplies,Notebook Pack,1,357.07,0,357.07,150,207.07,Cash
+2025-06-23,ORD-0433,Kabir Joshi,North,Lucknow,Electronics,Headphones,4,1845.64,0.1,6644.3,4200,2444.3,Credit Card
+2025-06-23,ORD-0543,Rohan Verma,North,Delhi,Office Supplies,Printer Paper,6,470.99,0.15,2402.05,1620,782.05,Cash
+2025-06-24,ORD-0004,Isha Gupta,East,Patna,Furniture,Study Table,1,7061.68,0,7061.68,5100,1961.68,Debit Card
+2025-06-24,ORD-0500,Ananya Singh,North,Chandigarh,Office Supplies,Desk Organizer,4,548.56,0.15,1865.1,1120,745.1,Debit Card
+2025-06-25,ORD-0365,Diya Patel,South,Kochi,Furniture,Bookshelf,1,5139.33,0.15,4368.43,3100,1268.43,Debit Card
+2025-06-25,ORD-0409,Priya Iyer,West,Ahmedabad,Furniture,Office Chair,4,6217.56,0,24870.24,17200,7670.24,Credit Card
+2025-06-26,ORD-0043,Priya Iyer,East,Guwahati,Electronics,Monitor,5,9127.18,0,45635.9,35500,10135.9,Cash
+2025-06-26,ORD-0193,Kabir Joshi,South,Hyderabad,Furniture,Study Table,5,7581.76,0,37908.8,25500,12408.8,Credit Card
+2025-06-26,ORD-0284,Priya Iyer,North,Lucknow,Electronics,Keyboard,4,1126.29,0,4505.16,2600,1905.16,Credit Card
+2025-06-26,ORD-0492,Diya Patel,West,Pune,Electronics,Smartphone,4,19293.83,0.2,61740.26,56800,4940.26,Credit Card
+2025-06-26,ORD-0517,Sara Khan,North,Lucknow,Electronics,Keyboard,6,1142.2,0.15,5825.22,3900,1925.22,Net Banking
+2025-06-26,ORD-0529,Aditya Rao,East,Guwahati,Electronics,Monitor,4,8753.88,0.05,33264.74,28400,4864.74,Debit Card
+2025-06-27,ORD-0218,Kabir Joshi,West,Ahmedabad,Home & Kitchen,Mixer Grinder,2,3082.82,0.15,5240.79,4500,740.79,Debit Card
+2025-06-28,ORD-0285,Diya Patel,East,Bhubaneswar,Home & Kitchen,Mixer Grinder,5,3122.33,0.1,14050.49,11250,2800.49,Cash
+2025-06-29,ORD-0136,Myra Kulkarni,East,Kolkata,Office Supplies,Printer Paper,4,484.17,0.15,1646.18,1080,566.18,Net Banking
+2025-06-29,ORD-0138,Priya Iyer,North,Jaipur,Furniture,Bookshelf,6,4469.44,0.1,24134.98,18600,5534.98,UPI
+2025-07-01,ORD-0580,Ishaan Reddy,East,Patna,Office Supplies,Notebook Pack,6,371.21,0.05,2115.9,900,1215.9,UPI
+2025-07-02,ORD-0358,Rohan Verma,South,Hyderabad,Home & Kitchen,Cookware Set,6,2321.09,0.2,11141.23,9000,2141.23,UPI
+2025-07-02,ORD-0506,Aarav Sharma,South,Bengaluru,Electronics,Headphones,6,1797.89,0.2,8629.87,6300,2329.87,Net Banking
+2025-07-04,ORD-0191,Priya Iyer,East,Guwahati,Furniture,Bookshelf,1,4653.54,0,4653.54,3100,1553.54,Cash
+2025-07-04,ORD-0269,Kabir Joshi,East,Kolkata,Furniture,Office Chair,2,6446.8,0.1,11604.24,8600,3004.24,Net Banking
+2025-07-05,ORD-0006,Myra Kulkarni,South,Bengaluru,Electronics,Smartphone,3,19023.32,0,57069.96,42600,14469.96,UPI
+2025-07-06,ORD-0156,Reyansh Shah,East,Bhubaneswar,Home & Kitchen,Cookware Set,3,2437.59,0.2,5850.22,4500,1350.22,Debit Card
+2025-07-06,ORD-0184,Diya Patel,South,Bengaluru,Furniture,Bookshelf,6,4442.73,0.1,23990.74,18600,5390.74,Credit Card
+2025-07-07,ORD-0116,Arjun Das,North,Lucknow,Electronics,Keyboard,5,1191.32,0,5956.6,3250,2706.6,Debit Card
+2025-07-08,ORD-0553,Kabir Joshi,North,Chandigarh,Electronics,Headphones,3,1928.05,0,5784.15,3150,2634.15,UPI
+2025-07-10,ORD-0186,Vivaan Kumar,West,Mumbai,Furniture,Bookshelf,3,4657.45,0.1,12575.11,9300,3275.11,Credit Card
+2025-07-10,ORD-0400,Sara Khan,East,Bhubaneswar,Home & Kitchen,Mixer Grinder,4,3387.59,0,13550.36,9000,4550.36,Net Banking
+2025-07-10,ORD-0420,Aditya Rao,East,Patna,Electronics,Monitor,4,9153.19,0.1,32951.48,28400,4551.48,Cash
+2025-07-10,ORD-0536,Aditya Rao,West,Mumbai,Office Supplies,Notebook Pack,2,336.92,0,673.84,300,373.84,UPI
+2025-07-11,ORD-0406,Ananya Singh,North,Chandigarh,Furniture,Office Chair,6,6631.75,0,39790.5,25800,13990.5,Credit Card
+2025-07-12,ORD-0575,Sara Khan,North,Chandigarh,Furniture,Office Chair,3,6800.76,0,20402.28,12900,7502.28,Debit Card
+2025-07-13,ORD-0099,Myra Kulkarni,West,Ahmedabad,Furniture,Bookshelf,2,4710.12,0.15,8007.2,6200,1807.2,Cash
+2025-07-14,ORD-0007,Vivaan Kumar,East,Guwahati,Office Supplies,Printer Paper,3,429.08,0.05,1222.88,810,412.88,UPI
+2025-07-14,ORD-0061,Aarav Sharma,East,Guwahati,Office Supplies,Notebook Pack,4,363.95,0,1455.8,600,855.8,Debit Card
+2025-07-14,ORD-0268,Vivaan Kumar,South,Kochi,Office Supplies,Pen Set,1,165.75,0,165.75,65,100.75,Cash
+2025-07-14,ORD-0275,Isha Gupta,East,Guwahati,Office Supplies,Desk Organizer,6,517.98,0.15,2641.7,1680,961.7,Net Banking
+2025-07-15,ORD-0451,Isha Gupta,North,Lucknow,Office Supplies,Pen Set,1,189.28,0.15,160.89,65,95.89,Net Banking
+2025-07-16,ORD-0436,Rohan Verma,West,Pune,Office Supplies,Desk Organizer,3,545.85,0.05,1555.67,840,715.67,Credit Card
+2025-07-17,ORD-0180,Kabir Joshi,East,Patna,Home & Kitchen,Water Bottle,4,480.55,0.05,1826.09,720,1106.09,Debit Card
+2025-07-17,ORD-0271,Ishaan Reddy,North,Chandigarh,Home & Kitchen,Cookware Set,1,2554.04,0.2,2043.23,1500,543.23,Credit Card
+2025-07-17,ORD-0538,Kabir Joshi,West,Pune,Electronics,Smartphone,4,18780.47,0.2,60097.5,56800,3297.5,Credit Card
+2025-07-22,ORD-0030,Sara Khan,South,Chennai,Home & Kitchen,Cookware Set,1,2383.98,0,2383.98,1500,883.98,UPI
+2025-07-22,ORD-0148,Diya Patel,East,Bhubaneswar,Furniture,Study Table,2,7212.08,0,14424.16,10200,4224.16,Net Banking
+2025-07-22,ORD-0168,Ishaan Reddy,East,Patna,Home & Kitchen,Mixer Grinder,3,2958.43,0,8875.29,6750,2125.29,UPI
+2025-07-22,ORD-0346,Ishaan Reddy,West,Mumbai,Home & Kitchen,Water Bottle,4,439.48,0,1757.92,720,1037.92,Credit Card
+2025-07-24,ORD-0200,Meera Nair,South,Chennai,Electronics,Keyboard,2,1127.52,0.1,2029.54,1300,729.54,Credit Card
+2025-07-25,ORD-0025,Reyansh Shah,North,Jaipur,Home & Kitchen,Mixer Grinder,4,3418.38,0.05,12989.84,9000,3989.84,Cash
+2025-07-25,ORD-0495,Myra Kulkarni,East,Kolkata,Furniture,Bookshelf,4,4424.23,0.1,15927.23,12400,3527.23,Net Banking
+2025-07-26,ORD-0205,Kabir Joshi,East,Kolkata,Home & Kitchen,Mixer Grinder,5,3043.66,0.15,12935.55,11250,1685.55,Debit Card
+2025-07-26,ORD-0396,Aditya Rao,East,Patna,Electronics,Monitor,3,10118.51,0.05,28837.75,21300,7537.75,Cash
+2025-07-26,ORD-0499,Kabir Joshi,North,Chandigarh,Furniture,Study Table,5,7267.54,0,36337.7,25500,10837.7,Debit Card
+2025-07-27,ORD-0229,Rohan Verma,East,Kolkata,Office Supplies,Pen Set,5,171.91,0,859.55,325,534.55,Cash
+2025-07-28,ORD-0038,Ishaan Reddy,South,Hyderabad,Furniture,Office Chair,4,6166.54,0,24666.16,17200,7466.16,Debit Card
+2025-07-28,ORD-0221,Ishaan Reddy,West,Surat,Furniture,Study Table,3,7368.07,0.05,20999.0,15300,5699.0,UPI
+2025-07-28,ORD-0270,Reyansh Shah,North,Delhi,Electronics,Keyboard,5,1218.61,0,6093.05,3250,2843.05,Debit Card
+2025-07-29,ORD-0279,Aditya Rao,West,Pune,Office Supplies,Printer Paper,3,425.1,0.2,1020.24,810,210.24,Cash
+2025-07-29,ORD-0296,Reyansh Shah,West,Surat,Home & Kitchen,Cookware Set,2,2425.11,0,4850.22,3000,1850.22,Credit Card
+2025-07-30,ORD-0039,Myra Kulkarni,South,Chennai,Furniture,Bookshelf,1,5085.82,0.1,4577.24,3100,1477.24,Cash
+2025-07-30,ORD-0257,Arjun Das,North,Delhi,Office Supplies,Pen Set,1,189.02,0.15,160.67,65,95.67,Cash
+2025-07-30,ORD-0586,Aarav Sharma,East,Guwahati,Office Supplies,Printer Paper,2,423.47,0,846.94,540,306.94,Net Banking
+2025-07-31,ORD-0374,Ishaan Reddy,South,Bengaluru,Home & Kitchen,Water Bottle,4,463.47,0.15,1575.8,720,855.8,Cash
+2025-07-31,ORD-0437,Arjun Das,East,Bhubaneswar,Furniture,Office Chair,2,6722.96,0.15,11429.03,8600,2829.03,Debit Card
+2025-08-01,ORD-0056,Aditya Rao,West,Ahmedabad,Home & Kitchen,Cookware Set,1,2527.83,0,2527.83,1500,1027.83,Net Banking
+2025-08-02,ORD-0564,Isha Gupta,North,Jaipur,Electronics,Monitor,1,9537.06,0.05,9060.21,7100,1960.21,Net Banking
+2025-08-03,ORD-0512,Sara Khan,East,Bhubaneswar,Home & Kitchen,Cookware Set,4,2427.42,0,9709.68,6000,3709.68,Credit Card
+2025-08-04,ORD-0421,Myra Kulkarni,South,Bengaluru,Furniture,Bookshelf,6,5169.85,0,31019.1,18600,12419.1,Credit Card
+2025-08-05,ORD-0022,Reyansh Shah,West,Surat,Electronics,Headphones,1,1865.73,0.1,1679.16,1050,629.16,UPI
+2025-08-05,ORD-0235,Rohan Verma,East,Kolkata,Electronics,Headphones,4,1738.68,0,6954.72,4200,2754.72,Credit Card
+2025-08-05,ORD-0377,Ishaan Reddy,North,Lucknow,Furniture,Bookshelf,2,4614.06,0.15,7843.9,6200,1643.9,UPI
+2025-08-06,ORD-0051,Diya Patel,South,Hyderabad,Home & Kitchen,Mixer Grinder,5,3413.74,0,17068.7,11250,5818.7,Cash
+2025-08-06,ORD-0085,Reyansh Shah,North,Jaipur,Furniture,Study Table,2,6692.7,0,13385.4,10200,3185.4,Debit Card
+2025-08-08,ORD-0316,Sara Khan,East,Patna,Furniture,Study Table,6,6909.89,0,41459.34,30600,10859.34,Net Banking
+2025-08-09,ORD-0142,Aditya Rao,North,Chandigarh,Home & Kitchen,Water Bottle,6,417.27,0.05,2378.44,1080,1298.44,Net Banking
+2025-08-10,ORD-0267,Vivaan Kumar,South,Kochi,Electronics,Keyboard,2,1118.11,0.2,1788.98,1300,488.98,Credit Card
+2025-08-10,ORD-0456,Priya Iyer,East,Kolkata,Home & Kitchen,Water Bottle,1,414.42,0.15,352.26,180,172.26,Net Banking
+2025-08-13,ORD-0018,Kabir Joshi,West,Mumbai,Furniture,Office Chair,1,6001.88,0.05,5701.79,4300,1401.79,Credit Card
+2025-08-13,ORD-0300,Priya Iyer,North,Jaipur,Furniture,Bookshelf,5,4685.28,0.2,18741.12,15500,3241.12,Net Banking
+2025-08-13,ORD-0458,Priya Iyer,West,Surat,Electronics,Monitor,2,9074.2,0.15,15426.14,14200,1226.14,Cash
+2025-08-15,ORD-0024,Meera Nair,North,Delhi,Electronics,Headphones,2,1773.05,0,3546.1,2100,1446.1,Credit Card
+2025-08-15,ORD-0385,Rohan Verma,South,Kochi,Home & Kitchen,Water Bottle,3,451.1,0,1353.3,540,813.3,UPI
+2025-08-17,ORD-0053,Reyansh Shah,South,Kochi,Home & Kitchen,Cookware Set,2,2314.49,0.2,3703.18,3000,703.18,Net Banking
+2025-08-17,ORD-0183,Arjun Das,North,Chandigarh,Home & Kitchen,Cookware Set,6,2236.82,0,13420.92,9000,4420.92,Cash
+2025-08-18,ORD-0151,Vivaan Kumar,East,Bhubaneswar,Furniture,Study Table,1,7133.42,0.1,6420.08,5100,1320.08,Debit Card
+2025-08-18,ORD-0170,Priya Iyer,North,Delhi,Electronics,Keyboard,2,1209.37,0,2418.74,1300,1118.74,Net Banking
+2025-08-19,ORD-0547,Priya Iyer,East,Bhubaneswar,Office Supplies,Desk Organizer,1,550.52,0.2,440.42,280,160.42,Credit Card
+2025-08-20,ORD-0340,Vivaan Kumar,East,Guwahati,Office Supplies,Notebook Pack,1,367.23,0,367.23,150,217.23,Net Banking
+2025-08-20,ORD-0404,Reyansh Shah,East,Patna,Furniture,Bookshelf,2,5019.04,0.1,9034.27,6200,2834.27,UPI
+2025-08-21,ORD-0091,Myra Kulkarni,North,Chandigarh,Office Supplies,Pen Set,1,190.51,0.1,171.46,65,106.46,UPI
+2025-08-21,ORD-0224,Priya Iyer,West,Pune,Home & Kitchen,Cookware Set,2,2334.98,0,4669.96,3000,1669.96,Cash
+2025-08-22,ORD-0109,Isha Gupta,East,Patna,Home & Kitchen,Cookware Set,1,2354.44,0,2354.44,1500,854.44,Net Banking
+2025-08-22,ORD-0387,Arjun Das,North,Chandigarh,Furniture,Study Table,3,7205.91,0.1,19455.96,15300,4155.96,UPI
+2025-08-23,ORD-0172,Sara Khan,North,Delhi,Home & Kitchen,Water Bottle,5,459.5,0,2297.5,900,1397.5,Credit Card
+2025-08-23,ORD-0306,Isha Gupta,East,Kolkata,Home & Kitchen,Mixer Grinder,4,3197.29,0,12789.16,9000,3789.16,Debit Card
+2025-08-23,ORD-0336,Aarav Sharma,North,Delhi,Furniture,Bookshelf,4,4870.58,0,19482.32,12400,7082.32,Cash
+2025-08-23,ORD-0501,Reyansh Shah,West,Mumbai,Home & Kitchen,Mixer Grinder,3,3139.93,0,9419.79,6750,2669.79,Credit Card
+2025-08-24,ORD-0147,Kabir Joshi,East,Kolkata,Home & Kitchen,Mixer Grinder,2,3245.5,0.1,5841.9,4500,1341.9,UPI
+2025-08-25,ORD-0095,Aditya Rao,North,Jaipur,Home & Kitchen,Water Bottle,3,464.79,0.15,1185.21,540,645.21,Cash
+2025-08-25,ORD-0165,Vivaan Kumar,East,Guwahati,Home & Kitchen,Mixer Grinder,2,3014.86,0.15,5125.26,4500,625.26,UPI
+2025-08-25,ORD-0234,Diya Patel,East,Kolkata,Home & Kitchen,Cookware Set,1,2291.67,0.2,1833.34,1500,333.34,UPI
+2025-08-25,ORD-0288,Aarav Sharma,South,Kochi,Furniture,Office Chair,6,6429.42,0.2,30861.22,25800,5061.22,Net Banking
+2025-08-25,ORD-0594,Meera Nair,South,Kochi,Office Supplies,Notebook Pack,6,372.61,0.15,1900.31,900,1000.31,Cash
+2025-08-26,ORD-0199,Myra Kulkarni,South,Chennai,Furniture,Study Table,6,7469.8,0.05,42577.86,30600,11977.86,Debit Card
+2025-08-28,ORD-0115,Myra Kulkarni,North,Jaipur,Furniture,Bookshelf,6,5168.6,0.2,24809.28,18600,6209.28,Net Banking
+2025-08-30,ORD-0096,Ishaan Reddy,South,Kochi,Furniture,Study Table,2,7209.49,0.15,12256.13,10200,2056.13,Credit Card
+2025-08-30,ORD-0320,Aarav Sharma,North,Delhi,Electronics,Headphones,3,1667.47,0,5002.41,3150,1852.41,Cash
+2025-08-30,ORD-0469,Rohan Verma,South,Chennai,Home & Kitchen,Mixer Grinder,5,3382.87,0.2,13531.48,11250,2281.48,Cash
+2025-08-30,ORD-0494,Aarav Sharma,West,Mumbai,Electronics,Keyboard,2,1119.37,0.05,2126.8,1300,826.8,Cash
+2025-08-31,ORD-0063,Sara Khan,North,Jaipur,Home & Kitchen,Water Bottle,3,426.08,0.05,1214.33,540,674.33,UPI
+2025-08-31,ORD-0381,Priya Iyer,North,Jaipur,Office Supplies,Desk Organizer,2,559.56,0.15,951.25,560,391.25,Cash
+2025-08-31,ORD-0514,Priya Iyer,North,Jaipur,Home & Kitchen,Cookware Set,2,2406.53,0.2,3850.45,3000,850.45,Debit Card
+2025-08-31,ORD-0539,Ishaan Reddy,West,Ahmedabad,Office Supplies,Printer Paper,6,417.04,0.2,2001.79,1620,381.79,Net Banking
+2025-09-01,ORD-0504,Arjun Das,East,Bhubaneswar,Furniture,Bookshelf,3,5143.39,0,15430.17,9300,6130.17,Credit Card
+2025-09-01,ORD-0516,Ishaan Reddy,North,Lucknow,Office Supplies,Pen Set,3,181.74,0.05,517.96,195,322.96,Debit Card
+2025-09-02,ORD-0079,Aarav Sharma,North,Delhi,Home & Kitchen,Cookware Set,1,2449.71,0.15,2082.25,1500,582.25,Credit Card
+2025-09-02,ORD-0311,Priya Iyer,North,Jaipur,Furniture,Bookshelf,6,4423.13,0.1,23884.9,18600,5284.9,Debit Card
+2025-09-03,ORD-0249,Aditya Rao,South,Hyderabad,Home & Kitchen,Mixer Grinder,5,3341.06,0.05,15870.03,11250,4620.03,Cash
+2025-09-03,ORD-0370,Diya Patel,South,Bengaluru,Electronics,Smartphone,2,17400.42,0.2,27840.67,28400,-559.33,Cash
+2025-09-04,ORD-0476,Vivaan Kumar,North,Jaipur,Home & Kitchen,Mixer Grinder,2,3207.45,0,6414.9,4500,1914.9,Credit Card
+2025-09-04,ORD-0478,Aarav Sharma,West,Surat,Furniture,Bookshelf,2,5056.02,0.2,8089.63,6200,1889.63,Credit Card
+2025-09-05,ORD-0472,Ananya Singh,East,Kolkata,Furniture,Study Table,2,6928.54,0,13857.08,10200,3657.08,UPI
+2025-09-06,ORD-0054,Isha Gupta,South,Chennai,Home & Kitchen,Mixer Grinder,6,3064.06,0.05,17465.14,13500,3965.14,Debit Card
+2025-09-06,ORD-0578,Aarav Sharma,North,Jaipur,Furniture,Bookshelf,4,5127.44,0.15,17433.3,12400,5033.3,UPI
+2025-09-07,ORD-0463,Sara Khan,East,Bhubaneswar,Furniture,Bookshelf,6,4492.83,0,26956.98,18600,8356.98,UPI
+2025-09-07,ORD-0515,Ananya Singh,East,Bhubaneswar,Electronics,Monitor,1,8988.28,0.2,7190.62,7100,90.62,Debit Card
+2025-09-08,ORD-0067,Priya Iyer,North,Lucknow,Office Supplies,Desk Organizer,6,544.32,0,3265.92,1680,1585.92,Net Banking
+2025-09-10,ORD-0363,Arjun Das,West,Ahmedabad,Home & Kitchen,Mixer Grinder,4,3277.3,0.15,11142.82,9000,2142.82,Credit Card
+2025-09-11,ORD-0070,Ishaan Reddy,East,Patna,Home & Kitchen,Mixer Grinder,3,3118.25,0.05,8887.01,6750,2137.01,Net Banking
+2025-09-11,ORD-0204,Priya Iyer,West,Ahmedabad,Electronics,Headphones,4,1910.15,0,7640.6,4200,3440.6,Debit Card
+2025-09-12,ORD-0144,Kabir Joshi,West,Pune,Furniture,Study Table,5,6889.09,0.2,27556.36,25500,2056.36,Debit Card
+2025-09-12,ORD-0327,Vivaan Kumar,West,Ahmedabad,Electronics,Monitor,5,9298.89,0,46494.45,35500,10994.45,UPI
+2025-09-12,ORD-0360,Ishaan Reddy,South,Chennai,Electronics,Smartphone,3,17043.52,0.05,48574.03,42600,5974.03,UPI
+2025-09-13,ORD-0253,Rohan Verma,East,Bhubaneswar,Home & Kitchen,Water Bottle,6,449.32,0.2,2156.74,1080,1076.74,Debit Card
+2025-09-13,ORD-0348,Ananya Singh,West,Surat,Electronics,Headphones,3,1695.52,0.1,4577.9,3150,1427.9,Net Banking
+2025-09-13,ORD-0434,Ishaan Reddy,North,Delhi,Home & Kitchen,Water Bottle,4,470.24,0.15,1598.82,720,878.82,Credit Card
+2025-09-13,ORD-0505,Ananya Singh,South,Hyderabad,Furniture,Study Table,2,6857.59,0,13715.18,10200,3515.18,Net Banking
+2025-09-14,ORD-0470,Reyansh Shah,North,Lucknow,Office Supplies,Notebook Pack,6,369.49,0,2216.94,900,1316.94,Net Banking
+2025-09-15,ORD-0485,Aarav Sharma,North,Delhi,Home & Kitchen,Water Bottle,2,452.83,0.15,769.81,360,409.81,Cash
+2025-09-15,ORD-0509,Isha Gupta,East,Guwahati,Furniture,Study Table,1,7220.97,0.2,5776.78,5100,676.78,UPI
+2025-09-16,ORD-0034,Aarav Sharma,West,Ahmedabad,Electronics,Headphones,6,1894.85,0.1,10232.19,6300,3932.19,UPI
+2025-09-17,ORD-0321,Kabir Joshi,East,Guwahati,Home & Kitchen,Water Bottle,4,460.12,0,1840.48,720,1120.48,Net Banking
+2025-09-17,ORD-0398,Vivaan Kumar,East,Patna,Furniture,Study Table,1,6771.39,0.1,6094.25,5100,994.25,Net Banking
+2025-09-18,ORD-0452,Diya Patel,West,Surat,Electronics,Keyboard,6,1165.5,0,6993.0,3900,3093.0,UPI
+2025-09-18,ORD-0493,Diya Patel,West,Ahmedabad,Electronics,Smartphone,4,16575.24,0.2,53040.77,56800,-3759.23,Credit Card
+2025-09-19,ORD-0149,Ananya Singh,South,Chennai,Office Supplies,Printer Paper,2,424.54,0,849.08,540,309.08,Credit Card
+2025-09-19,ORD-0417,Aarav Sharma,North,Delhi,Office Supplies,Printer Paper,4,433.02,0.05,1645.48,1080,565.48,UPI
+2025-09-20,ORD-0167,Aditya Rao,South,Kochi,Electronics,Smartphone,4,19239.76,0.05,73111.09,56800,16311.09,UPI
+2025-09-20,ORD-0391,Aarav Sharma,North,Delhi,Home & Kitchen,Mixer Grinder,6,3251.78,0,19510.68,13500,6010.68,Credit Card
+2025-09-22,ORD-0475,Isha Gupta,East,Guwahati,Furniture,Bookshelf,4,5043.64,0.05,19165.83,12400,6765.83,Cash
+2025-09-24,ORD-0540,Aarav Sharma,North,Chandigarh,Home & Kitchen,Water Bottle,3,439.95,0,1319.85,540,779.85,Credit Card
+2025-09-24,ORD-0582,Ishaan Reddy,South,Kochi,Furniture,Bookshelf,2,5161.37,0.1,9290.47,6200,3090.47,Net Banking
+2025-09-24,ORD-0592,Priya Iyer,North,Lucknow,Home & Kitchen,Mixer Grinder,2,3219.39,0.15,5472.96,4500,972.96,UPI
+2025-09-25,ORD-0486,Aditya Rao,West,Ahmedabad,Electronics,Monitor,2,9940.12,0.1,17892.22,14200,3692.22,Debit Card
+2025-09-26,ORD-0174,Isha Gupta,East,Kolkata,Electronics,Monitor,4,9706.22,0,38824.88,28400,10424.88,Debit Card
+2025-09-26,ORD-0524,Aditya Rao,North,Delhi,Office Supplies,Printer Paper,1,481.07,0.2,384.86,270,114.86,Debit Card
+2025-09-27,ORD-0192,Meera Nair,West,Surat,Electronics,Smartphone,3,16773.6,0.2,40256.64,42600,-2343.36,Net Banking
+2025-09-28,ORD-0171,Aditya Rao,West,Mumbai,Office Supplies,Printer Paper,3,417.44,0,1252.32,810,442.32,Net Banking
+2025-09-28,ORD-0262,Ishaan Reddy,North,Jaipur,Furniture,Bookshelf,5,4624.2,0.1,20808.9,15500,5308.9,UPI
+2025-09-28,ORD-0291,Meera Nair,East,Guwahati,Home & Kitchen,Water Bottle,1,439.34,0.05,417.37,180,237.37,Net Banking
+2025-09-28,ORD-0319,Kabir Joshi,North,Chandigarh,Office Supplies,Printer Paper,4,444.3,0.15,1510.62,1080,430.62,Credit Card
+2025-09-29,ORD-0114,Reyansh Shah,East,Patna,Office Supplies,Desk Organizer,3,582.59,0.2,1398.22,840,558.22,UPI
+2025-09-30,ORD-0215,Vivaan Kumar,East,Bhubaneswar,Office Supplies,Desk Organizer,2,530.55,0,1061.1,560,501.1,Credit Card
+2025-10-01,ORD-0250,Reyansh Shah,East,Bhubaneswar,Office Supplies,Pen Set,5,179.02,0.1,805.59,325,480.59,Cash
+2025-10-01,ORD-0411,Meera Nair,North,Delhi,Electronics,Headphones,1,1689.35,0.2,1351.48,1050,301.48,Cash
+2025-10-03,ORD-0011,Diya Patel,East,Guwahati,Home & Kitchen,Cookware Set,2,2403.66,0,4807.32,3000,1807.32,UPI
+2025-10-03,ORD-0058,Isha Gupta,South,Kochi,Furniture,Study Table,4,6657.44,0.1,23966.78,20400,3566.78,Cash
+2025-10-04,ORD-0055,Ananya Singh,North,Jaipur,Furniture,Office Chair,4,6138.92,0.2,19644.54,17200,2444.54,UPI
+2025-10-04,ORD-0087,Vivaan Kumar,West,Surat,Electronics,Headphones,4,1748.83,0.2,5596.26,4200,1396.26,UPI
+2025-10-05,ORD-0441,Myra Kulkarni,North,Chandigarh,Home & Kitchen,Mixer Grinder,5,3322.62,0.2,13290.48,11250,2040.48,Credit Card
+2025-10-06,ORD-0032,Diya Patel,East,Kolkata,Office Supplies,Notebook Pack,2,328.46,0.05,624.07,300,324.07,Net Banking
+2025-10-06,ORD-0122,Myra Kulkarni,East,Kolkata,Home & Kitchen,Cookware Set,2,2572.42,0,5144.84,3000,2144.84,Cash
+2025-10-06,ORD-0537,Reyansh Shah,West,Pune,Furniture,Study Table,4,6764.5,0,27058.0,20400,6658.0,Credit Card
+2025-10-07,ORD-0333,Arjun Das,South,Hyderabad,Electronics,Monitor,1,9563.15,0,9563.15,7100,2463.15,UPI
+2025-10-07,ORD-0459,Rohan Verma,East,Patna,Office Supplies,Pen Set,1,190.79,0.15,162.17,65,97.17,UPI
+2025-10-07,ORD-0558,Aarav Sharma,South,Kochi,Office Supplies,Pen Set,4,193.24,0.1,695.66,260,435.66,UPI
+2025-10-09,ORD-0298,Meera Nair,North,Delhi,Office Supplies,Pen Set,5,187.49,0,937.45,325,612.45,Net Banking
+2025-10-09,ORD-0557,Ananya Singh,East,Bhubaneswar,Home & Kitchen,Water Bottle,4,437.29,0.2,1399.33,720,679.33,Net Banking
+2025-10-10,ORD-0443,Ishaan Reddy,North,Delhi,Office Supplies,Printer Paper,5,473.76,0.1,2131.92,1350,781.92,Debit Card
+2025-10-10,ORD-0467,Priya Iyer,North,Jaipur,Electronics,Keyboard,2,1141.71,0.15,1940.91,1300,640.91,UPI
+2025-10-11,ORD-0124,Myra Kulkarni,South,Hyderabad,Furniture,Study Table,2,6627.27,0.15,11266.36,10200,1066.36,Credit Card
+2025-10-12,ORD-0581,Priya Iyer,East,Patna,Furniture,Study Table,4,6782.12,0.2,21702.78,20400,1302.78,Cash
+2025-10-13,ORD-0207,Aarav Sharma,East,Patna,Furniture,Bookshelf,5,4800.06,0.1,21600.27,15500,6100.27,UPI
+2025-10-13,ORD-0283,Kabir Joshi,South,Kochi,Office Supplies,Desk Organizer,4,557.8,0.2,1784.96,1120,664.96,Credit Card
+2025-10-13,ORD-0555,Diya Patel,West,Mumbai,Office Supplies,Desk Organizer,6,543.58,0.2,2609.18,1680,929.18,Credit Card
+2025-10-13,ORD-0585,Ishaan Reddy,North,Jaipur,Office Supplies,Printer Paper,6,469.11,0,2814.66,1620,1194.66,Cash
+2025-10-13,ORD-0593,Reyansh Shah,West,Mumbai,Furniture,Study Table,4,7642.83,0.1,27514.19,20400,7114.19,Debit Card
+2025-10-16,ORD-0282,Kabir Joshi,West,Ahmedabad,Home & Kitchen,Mixer Grinder,1,3076.47,0,3076.47,2250,826.47,Net Banking
+2025-10-17,ORD-0106,Ananya Singh,South,Hyderabad,Furniture,Office Chair,5,6624.5,0.1,29810.25,21500,8310.25,Cash
+2025-10-17,ORD-0465,Ananya Singh,East,Bhubaneswar,Home & Kitchen,Mixer Grinder,1,3070.04,0.05,2916.54,2250,666.54,Cash
+2025-10-17,ORD-0565,Aditya Rao,South,Chennai,Furniture,Office Chair,1,6740.84,0.2,5392.67,4300,1092.67,Cash
+2025-10-18,ORD-0140,Vivaan Kumar,North,Delhi,Furniture,Office Chair,5,6680.93,0,33404.65,21500,11904.65,Cash
+2025-10-20,ORD-0272,Rohan Verma,South,Kochi,Furniture,Office Chair,3,6259.14,0.05,17838.55,12900,4938.55,UPI
+2025-10-20,ORD-0376,Rohan Verma,South,Bengaluru,Home & Kitchen,Mixer Grinder,2,3357.93,0,6715.86,4500,2215.86,UPI
+2025-10-20,ORD-0567,Priya Iyer,North,Lucknow,Office Supplies,Notebook Pack,4,346.33,0.15,1177.52,600,577.52,Credit Card
+2025-10-21,ORD-0146,Rohan Verma,West,Surat,Office Supplies,Notebook Pack,4,376.11,0,1504.44,600,904.44,Net Banking
+2025-10-21,ORD-0328,Isha Gupta,North,Jaipur,Electronics,Headphones,1,1669.24,0,1669.24,1050,619.24,Cash
+2025-10-21,ORD-0375,Sara Khan,South,Kochi,Office Supplies,Notebook Pack,4,323.94,0.2,1036.61,600,436.61,Net Banking
+2025-10-22,ORD-0277,Sara Khan,South,Chennai,Home & Kitchen,Cookware Set,4,2251.73,0.05,8556.57,6000,2556.57,Credit Card
+2025-10-23,ORD-0021,Aditya Rao,West,Pune,Home & Kitchen,Cookware Set,2,2245.22,0,4490.44,3000,1490.44,Debit Card
+2025-10-23,ORD-0290,Arjun Das,North,Jaipur,Office Supplies,Pen Set,2,168.88,0.1,303.98,130,173.98,Cash
+2025-10-24,ORD-0047,Reyansh Shah,East,Guwahati,Home & Kitchen,Cookware Set,6,2404.29,0,14425.74,9000,5425.74,Credit Card
+2025-10-24,ORD-0098,Reyansh Shah,West,Pune,Home & Kitchen,Water Bottle,4,437.94,0.05,1664.17,720,944.17,Net Banking
+2025-10-26,ORD-0107,Aarav Sharma,South,Hyderabad,Home & Kitchen,Water Bottle,3,432.38,0.1,1167.43,540,627.43,Cash
+2025-10-26,ORD-0228,Vivaan Kumar,North,Chandigarh,Office Supplies,Printer Paper,1,422.51,0.2,338.01,270,68.01,Credit Card
+2025-10-26,ORD-0482,Sara Khan,South,Chennai,Furniture,Bookshelf,6,5124.37,0.05,29208.91,18600,10608.91,Net Banking
+2025-10-26,ORD-0561,Ishaan Reddy,South,Hyderabad,Office Supplies,Pen Set,1,177.11,0.15,150.54,65,85.54,Credit Card
+2025-10-27,ORD-0117,Kabir Joshi,West,Ahmedabad,Electronics,Smartphone,4,18344.29,0,73377.16,56800,16577.16,Debit Card
+2025-10-28,ORD-0379,Reyansh Shah,West,Mumbai,Home & Kitchen,Mixer Grinder,2,3245.02,0.15,5516.53,4500,1016.53,UPI
+2025-10-28,ORD-0389,Aarav Sharma,East,Bhubaneswar,Furniture,Study Table,6,6728.13,0.2,32295.02,30600,1695.02,Cash
+2025-10-29,ORD-0019,Myra Kulkarni,South,Bengaluru,Electronics,Headphones,2,1916.76,0,3833.52,2100,1733.52,Debit Card
+2025-10-29,ORD-0126,Kabir Joshi,East,Kolkata,Furniture,Study Table,1,7478.46,0,7478.46,5100,2378.46,UPI
+2025-10-29,ORD-0444,Rohan Verma,South,Hyderabad,Office Supplies,Desk Organizer,2,512.55,0.2,820.08,560,260.08,Net Banking
+2025-10-29,ORD-0487,Diya Patel,North,Lucknow,Furniture,Study Table,4,7672.42,0,30689.68,20400,10289.68,Debit Card
+2025-10-30,ORD-0152,Isha Gupta,North,Chandigarh,Electronics,Keyboard,4,1111.22,0.1,4000.39,2600,1400.39,Debit Card
+2025-10-30,ORD-0353,Rohan Verma,North,Chandigarh,Furniture,Bookshelf,2,4832.35,0.1,8698.23,6200,2498.23,Cash
+2025-10-30,ORD-0596,Priya Iyer,South,Kochi,Electronics,Keyboard,3,1228.53,0.2,2948.47,1950,998.47,Credit Card
+2025-10-31,ORD-0196,Arjun Das,South,Hyderabad,Office Supplies,Notebook Pack,1,324.55,0,324.55,150,174.55,Net Banking
+2025-10-31,ORD-0278,Myra Kulkarni,South,Bengaluru,Home & Kitchen,Water Bottle,2,471.43,0.1,848.57,360,488.57,UPI
+2025-11-01,ORD-0086,Vivaan Kumar,East,Guwahati,Electronics,Monitor,6,9803.6,0.05,55880.52,42600,13280.52,Net Banking
+2025-11-01,ORD-0159,Myra Kulkarni,North,Chandigarh,Home & Kitchen,Water Bottle,3,462.25,0,1386.75,540,846.75,Net Banking
+2025-11-01,ORD-0240,Ananya Singh,North,Lucknow,Electronics,Smartphone,6,17718.52,0,106311.12,85200,21111.12,Net Banking
+2025-11-01,ORD-0274,Isha Gupta,South,Kochi,Electronics,Smartphone,3,19292.61,0,57877.83,42600,15277.83,Net Banking
+2025-11-01,ORD-0366,Rohan Verma,West,Mumbai,Home & Kitchen,Water Bottle,2,478.06,0.15,812.7,360,452.7,UPI
+2025-11-01,ORD-0563,Myra Kulkarni,East,Kolkata,Home & Kitchen,Mixer Grinder,1,3122.14,0.05,2966.03,2250,716.03,Cash
+2025-11-01,ORD-0566,Diya Patel,North,Jaipur,Home & Kitchen,Cookware Set,4,2258.76,0,9035.04,6000,3035.04,Cash
+2025-11-02,ORD-0076,Aarav Sharma,East,Kolkata,Furniture,Study Table,2,6830.72,0.05,12978.37,10200,2778.37,Net Banking
+2025-11-02,ORD-0302,Kabir Joshi,South,Chennai,Office Supplies,Pen Set,5,193.03,0.05,916.89,325,591.89,UPI
+2025-11-02,ORD-0530,Ananya Singh,South,Bengaluru,Office Supplies,Printer Paper,4,445.47,0.15,1514.6,1080,434.6,Credit Card
+2025-11-03,ORD-0488,Sara Khan,West,Ahmedabad,Furniture,Office Chair,6,6801.0,0.2,32644.8,25800,6844.8,Net Banking
+2025-11-05,ORD-0150,Reyansh Shah,South,Bengaluru,Furniture,Bookshelf,4,4995.41,0.1,17983.48,12400,5583.48,Net Banking
+2025-11-06,ORD-0005,Vivaan Kumar,East,Kolkata,Home & Kitchen,Water Bottle,1,419.67,0.1,377.7,180,197.7,Net Banking
+2025-11-06,ORD-0429,Myra Kulkarni,East,Patna,Home & Kitchen,Cookware Set,3,2521.57,0,7564.71,4500,3064.71,Cash
+2025-11-06,ORD-0521,Meera Nair,West,Ahmedabad,Home & Kitchen,Cookware Set,6,2408.04,0.15,12281.0,9000,3281.0,Cash
+2025-11-07,ORD-0111,Sara Khan,West,Ahmedabad,Furniture,Bookshelf,3,4904.92,0,14714.76,9300,5414.76,Debit Card
+2025-11-08,ORD-0008,Arjun Das,South,Hyderabad,Furniture,Study Table,4,7763.93,0.05,29502.93,20400,9102.93,Net Banking
+2025-11-08,ORD-0317,Priya Iyer,East,Kolkata,Office Supplies,Printer Paper,5,450.69,0.15,1915.43,1350,565.43,Cash
+2025-11-09,ORD-0082,Rohan Verma,North,Jaipur,Furniture,Study Table,6,6804.93,0,40829.58,30600,10229.58,Net Banking
+2025-11-09,ORD-0118,Rohan Verma,South,Bengaluru,Home & Kitchen,Water Bottle,3,443.4,0.2,1064.16,540,524.16,UPI
+2025-11-09,ORD-0226,Rohan Verma,West,Surat,Office Supplies,Notebook Pack,4,327.34,0.2,1047.49,600,447.49,Cash
+2025-11-10,ORD-0598,Arjun Das,South,Kochi,Home & Kitchen,Mixer Grinder,2,3233.53,0.05,6143.71,4500,1643.71,Credit Card
+2025-11-11,ORD-0137,Ishaan Reddy,North,Chandigarh,Electronics,Smartphone,3,18755.74,0.2,45013.78,42600,2413.78,Debit Card
+2025-11-11,ORD-0266,Kabir Joshi,West,Ahmedabad,Electronics,Keyboard,4,1147.8,0.1,4132.08,2600,1532.08,Cash
+2025-11-11,ORD-0355,Sara Khan,South,Hyderabad,Office Supplies,Printer Paper,3,415.58,0,1246.74,810,436.74,Credit Card
+2025-11-12,ORD-0315,Aditya Rao,West,Pune,Electronics,Headphones,2,1825.8,0,3651.6,2100,1551.6,Debit Card
+2025-11-12,ORD-0587,Priya Iyer,East,Patna,Furniture,Office Chair,6,6353.63,0,38121.78,25800,12321.78,Cash
+2025-11-14,ORD-0029,Ananya Singh,North,Lucknow,Office Supplies,Pen Set,2,186.23,0.2,297.97,130,167.97,Debit Card
+2025-11-14,ORD-0401,Vivaan Kumar,North,Lucknow,Furniture,Bookshelf,1,4709.12,0.2,3767.3,3100,667.3,Cash
+2025-11-17,ORD-0243,Kabir Joshi,West,Surat,Electronics,Keyboard,6,1177.18,0.2,5650.46,3900,1750.46,Debit Card
+2025-11-17,ORD-0600,Aarav Sharma,South,Bengaluru,Furniture,Office Chair,1,6776.01,0.15,5759.61,4300,1459.61,Cash
+2025-11-19,ORD-0212,Aarav Sharma,West,Pune,Furniture,Office Chair,5,6094.29,0.2,24377.16,21500,2877.16,Cash
+2025-11-20,ORD-0301,Kabir Joshi,West,Pune,Furniture,Office Chair,2,6572.88,0,13145.76,8600,4545.76,Debit Card
+2025-11-21,ORD-0130,Reyansh Shah,East,Guwahati,Office Supplies,Desk Organizer,5,543.86,0.15,2311.41,1400,911.41,UPI
+2025-11-21,ORD-0431,Priya Iyer,East,Bhubaneswar,Electronics,Headphones,2,1696.45,0.1,3053.61,2100,953.61,Cash
+2025-11-22,ORD-0294,Meera Nair,South,Hyderabad,Home & Kitchen,Cookware Set,2,2328.8,0,4657.6,3000,1657.6,Net Banking
+2025-11-23,ORD-0533,Aarav Sharma,West,Surat,Office Supplies,Desk Organizer,2,507.71,0.05,964.65,560,404.65,Net Banking
+2025-11-24,ORD-0001,Arjun Das,North,Delhi,Office Supplies,Printer Paper,2,467.03,0,934.06,540,394.06,Net Banking
+2025-11-25,ORD-0166,Vivaan Kumar,West,Ahmedabad,Electronics,Headphones,3,1875.78,0,5627.34,3150,2477.34,Cash
+2025-11-25,ORD-0236,Arjun Das,West,Ahmedabad,Home & Kitchen,Cookware Set,4,2238.82,0.1,8059.75,6000,2059.75,Net Banking
+2025-11-27,ORD-0185,Meera Nair,East,Bhubaneswar,Home & Kitchen,Water Bottle,1,425.05,0.15,361.29,180,181.29,Debit Card
+2025-11-27,ORD-0531,Kabir Joshi,West,Surat,Furniture,Study Table,1,7344.37,0.1,6609.93,5100,1509.93,Net Banking
+2025-11-28,ORD-0225,Ananya Singh,East,Patna,Electronics,Keyboard,3,1233.49,0.15,3145.4,1950,1195.4,Credit Card
+2025-11-28,ORD-0287,Kabir Joshi,North,Jaipur,Furniture,Bookshelf,2,4538.98,0.15,7716.27,6200,1516.27,Cash
+2025-11-28,ORD-0442,Reyansh Shah,West,Pune,Office Supplies,Notebook Pack,4,345.33,0.1,1243.19,600,643.19,Debit Card
+2025-11-29,ORD-0169,Rohan Verma,East,Patna,Furniture,Office Chair,3,6703.91,0.1,18100.56,12900,5200.56,Cash
+2025-11-29,ORD-0309,Isha Gupta,East,Patna,Office Supplies,Notebook Pack,6,336.02,0.05,1915.31,900,1015.31,Credit Card
+2025-11-30,ORD-0068,Myra Kulkarni,East,Guwahati,Home & Kitchen,Cookware Set,6,2311.06,0.15,11786.41,9000,2786.41,Credit Card
+2025-11-30,ORD-0154,Reyansh Shah,South,Chennai,Home & Kitchen,Water Bottle,2,446.44,0,892.88,360,532.88,Debit Card
+2025-11-30,ORD-0222,Aditya Rao,South,Bengaluru,Furniture,Study Table,2,7772.74,0,15545.48,10200,5345.48,Cash
+2025-11-30,ORD-0490,Arjun Das,East,Bhubaneswar,Home & Kitchen,Water Bottle,3,433.84,0.15,1106.29,540,566.29,Cash
+2025-12-02,ORD-0102,Arjun Das,South,Bengaluru,Home & Kitchen,Cookware Set,3,2474.0,0.15,6308.7,4500,1808.7,UPI
+2025-12-02,ORD-0131,Aditya Rao,South,Kochi,Home & Kitchen,Mixer Grinder,4,3367.64,0.05,12797.03,9000,3797.03,Cash
+2025-12-02,ORD-0395,Reyansh Shah,East,Patna,Furniture,Bookshelf,2,5034.57,0,10069.14,6200,3869.14,Net Banking
+2025-12-03,ORD-0092,Meera Nair,West,Surat,Electronics,Smartphone,5,18353.19,0.05,87177.65,71000,16177.65,Cash
+2025-12-04,ORD-0048,Reyansh Shah,North,Chandigarh,Office Supplies,Notebook Pack,2,339.38,0.2,543.01,300,243.01,Credit Card
+2025-12-04,ORD-0128,Diya Patel,East,Guwahati,Electronics,Headphones,4,1778.77,0.1,6403.57,4200,2203.57,Cash
+2025-12-04,ORD-0550,Ananya Singh,North,Delhi,Furniture,Office Chair,1,6091.34,0,6091.34,4300,1791.34,UPI
+2025-12-05,ORD-0141,Diya Patel,West,Surat,Home & Kitchen,Cookware Set,3,2497.9,0,7493.7,4500,2993.7,Debit Card
+2025-12-05,ORD-0413,Diya Patel,North,Chandigarh,Furniture,Study Table,1,7452.02,0.15,6334.22,5100,1234.22,Debit Card
+2025-12-05,ORD-0447,Rohan Verma,East,Guwahati,Office Supplies,Notebook Pack,6,351.42,0.05,2003.09,900,1103.09,Net Banking
+2025-12-06,ORD-0337,Priya Iyer,South,Hyderabad,Office Supplies,Pen Set,3,185.78,0.1,501.61,195,306.61,Debit Card
+2025-12-07,ORD-0046,Ananya Singh,West,Pune,Office Supplies,Desk Organizer,5,532.74,0,2663.7,1400,1263.7,Cash
+2025-12-09,ORD-0255,Rohan Verma,North,Delhi,Home & Kitchen,Mixer Grinder,6,2978.8,0,17872.8,13500,4372.8,UPI
+2025-12-09,ORD-0473,Arjun Das,South,Chennai,Home & Kitchen,Cookware Set,4,2223.32,0,8893.28,6000,2893.28,Debit Card
+2025-12-10,ORD-0120,Vivaan Kumar,West,Pune,Home & Kitchen,Water Bottle,1,458.33,0.1,412.5,180,232.5,UPI
+2025-12-10,ORD-0570,Arjun Das,West,Surat,Office Supplies,Pen Set,2,175.52,0.05,333.49,130,203.49,UPI
+2025-12-11,ORD-0438,Sara Khan,South,Hyderabad,Office Supplies,Notebook Pack,3,348.9,0.15,889.69,450,439.69,Cash
+2025-12-12,ORD-0439,Arjun Das,East,Guwahati,Electronics,Headphones,1,1697.85,0.1,1528.07,1050,478.07,UPI
+2025-12-13,ORD-0393,Vivaan Kumar,West,Mumbai,Electronics,Keyboard,5,1218.0,0.2,4872.0,3250,1622.0,Debit Card
+2025-12-13,ORD-0502,Myra Kulkarni,South,Chennai,Home & Kitchen,Cookware Set,5,2211.73,0.15,9399.85,7500,1899.85,Debit Card
+2025-12-14,ORD-0112,Priya Iyer,South,Bengaluru,Electronics,Keyboard,4,1215.28,0,4861.12,2600,2261.12,Credit Card
+2025-12-15,ORD-0388,Myra Kulkarni,North,Jaipur,Office Supplies,Desk Organizer,5,521.63,0.1,2347.34,1400,947.34,Cash
+2025-12-16,ORD-0549,Diya Patel,West,Pune,Office Supplies,Pen Set,4,174.87,0.2,559.58,260,299.58,Net Banking
+2025-12-17,ORD-0263,Reyansh Shah,East,Kolkata,Furniture,Study Table,1,7300.27,0,7300.27,5100,2200.27,Cash
+2025-12-17,ORD-0394,Vivaan Kumar,North,Lucknow,Electronics,Keyboard,3,1166.43,0.2,2799.43,1950,849.43,Debit Card
+2025-12-17,ORD-0423,Vivaan Kumar,South,Kochi,Home & Kitchen,Mixer Grinder,4,2967.54,0.1,10683.14,9000,1683.14,Debit Card
+2025-12-17,ORD-0471,Arjun Das,South,Hyderabad,Home & Kitchen,Mixer Grinder,2,3429.74,0.15,5830.56,4500,1330.56,Credit Card
+2025-12-17,ORD-0484,Ishaan Reddy,West,Pune,Electronics,Smartphone,4,18287.46,0.15,62177.36,56800,5377.36,Net Banking
+2025-12-19,ORD-0211,Rohan Verma,North,Lucknow,Office Supplies,Printer Paper,6,456.01,0,2736.06,1620,1116.06,Net Banking
+2025-12-20,ORD-0072,Priya Iyer,West,Surat,Home & Kitchen,Mixer Grinder,1,3057.46,0.05,2904.59,2250,654.59,Credit Card
+2025-12-20,ORD-0075,Reyansh Shah,South,Hyderabad,Furniture,Bookshelf,4,4972.48,0.05,18895.42,12400,6495.42,Net Banking
+2025-12-20,ORD-0121,Arjun Das,East,Patna,Home & Kitchen,Cookware Set,2,2246.15,0.05,4267.69,3000,1267.69,Debit Card
+2025-12-20,ORD-0560,Vivaan Kumar,East,Patna,Electronics,Headphones,4,1700.96,0.05,6463.65,4200,2263.65,Debit Card
+2025-12-21,ORD-0435,Isha Gupta,South,Hyderabad,Electronics,Monitor,6,9661.36,0.15,49272.94,42600,6672.94,Net Banking
+2025-12-22,ORD-0276,Priya Iyer,South,Kochi,Office Supplies,Printer Paper,4,434.98,0.05,1652.92,1080,572.92,Cash
+2025-12-22,ORD-0293,Rohan Verma,South,Kochi,Home & Kitchen,Water Bottle,2,441.63,0.15,750.77,360,390.77,Cash
+2025-12-22,ORD-0407,Rohan Verma,East,Bhubaneswar,Furniture,Office Chair,4,6592.22,0.15,22413.55,17200,5213.55,UPI
+2025-12-22,ORD-0532,Vivaan Kumar,East,Bhubaneswar,Office Supplies,Desk Organizer,2,522.05,0,1044.1,560,484.1,UPI
+2025-12-23,ORD-0057,Myra Kulkarni,North,Lucknow,Home & Kitchen,Mixer Grinder,3,3329.78,0.05,9489.87,6750,2739.87,Cash
+2025-12-23,ORD-0177,Ananya Singh,West,Pune,Furniture,Office Chair,6,6018.46,0.1,32499.68,25800,6699.68,UPI
+2025-12-23,ORD-0244,Meera Nair,West,Surat,Furniture,Study Table,4,7493.09,0,29972.36,20400,9572.36,Credit Card
+2025-12-23,ORD-0286,Myra Kulkarni,West,Ahmedabad,Electronics,Keyboard,1,1126.1,0.2,900.88,650,250.88,Debit Card
+2025-12-26,ORD-0071,Kabir Joshi,East,Kolkata,Furniture,Office Chair,2,6402.69,0.2,10244.3,8600,1644.3,Credit Card
+2025-12-26,ORD-0261,Myra Kulkarni,South,Bengaluru,Home & Kitchen,Cookware Set,6,2425.29,0.05,13824.15,9000,4824.15,UPI
+2025-12-26,ORD-0281,Sara Khan,North,Delhi,Furniture,Bookshelf,6,4543.75,0.05,25899.38,18600,7299.38,UPI
+2025-12-26,ORD-0359,Sara Khan,West,Mumbai,Furniture,Bookshelf,3,4585.65,0.15,11693.41,9300,2393.41,UPI
+2025-12-27,ORD-0188,Diya Patel,West,Pune,Office Supplies,Desk Organizer,2,517.94,0,1035.88,560,475.88,Cash
+2025-12-27,ORD-0415,Priya Iyer,West,Ahmedabad,Furniture,Office Chair,5,6926.77,0.1,31170.47,21500,9670.47,Cash
+2025-12-29,ORD-0361,Isha Gupta,East,Guwahati,Electronics,Keyboard,2,1237.09,0,2474.18,1300,1174.18,Debit Card
+2025-12-31,ORD-0129,Vivaan Kumar,West,Mumbai,Electronics,Keyboard,5,1116.61,0,5583.05,3250,2333.05,Net Banking
